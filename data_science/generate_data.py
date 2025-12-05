@@ -65,11 +65,18 @@ def generate_dubai_rent_data(n=2000):
             furnish_factor = 1.1
             
         # Base Rent Calculation logic
-        # Base annual rent per sqft roughly 60-100 AED for average area
-        base_rate = np.random.uniform(60, 90) 
+        # Base annual rent per sqft roughly 60-100 AED
+        # We add a small premium for higher bedroom counts (efficiency/utility per sqft)
+        # But usually smaller units have higher per-sqft price. 
+        # However, to ensure total price sensitivity to bedroom count for fixed size:
+        base_rate = np.random.uniform(60, 90)
         
         # Apply factors
-        predicted_rent = size_sqft * base_rate * loc_factor * furnish_factor
+        # Add a fixed premium per bedroom to distinguish layouts of same size
+        # e.g. 1000sqft 1B vs 1000sqft 2B -> 2B pays higher
+        bed_premium = beds * 5000 
+        
+        predicted_rent = (size_sqft * base_rate * loc_factor * furnish_factor) + bed_premium
         
         # Add random noise/variability (market variance) +/- 10%
         noise = np.random.uniform(0.9, 1.1)
