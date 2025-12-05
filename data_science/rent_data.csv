@@ -1,0 +1,2001 @@
+location,bedrooms,bathrooms,size_sqft,furnishing,rent_price
+Discovery Gardens,1,1,970,Furnished,62000
+Dubai Marina,1,1,1158,Furnished,165000
+Downtown Dubai,0,1,607,Furnished,96000
+Dubai Sports City,4,4,2959,Furnished,171000
+Business Bay,1,1,869,Unfurnished,95000
+Jumeirah Beach Residence (JBR),0,1,400,Unfurnished,53000
+Jumeirah Beach Residence (JBR),3,3,1720,Unfurnished,170000
+Palm Jumeirah,2,3,1445,Unfurnished,207000
+Dubai Sports City,0,1,613,Unfurnished,43000
+Dubai Marina,2,3,1489,Unfurnished,146000
+Discovery Gardens,2,3,1261,Unfurnished,81000
+Dubai Sports City,1,2,914,Partly Furnished,81000
+Al Nahda,2,2,1152,Partly Furnished,75000
+Dubai Marina,1,1,714,Unfurnished,60000
+International City,1,2,1171,Unfurnished,44000
+Jumeirah Village Circle (JVC),2,2,1589,Unfurnished,97000
+Downtown Dubai,2,3,1132,Unfurnished,121000
+Downtown Dubai,2,3,1646,Unfurnished,175000
+Dubai Marina,2,3,1602,Furnished,211000
+Jumeirah Beach Residence (JBR),1,2,1079,Unfurnished,101000
+Jumeirah Beach Residence (JBR),1,2,1087,Furnished,135000
+Al Nahda,2,3,1624,Unfurnished,68000
+International City,3,3,2273,Furnished,143000
+Downtown Dubai,1,2,1145,Partly Furnished,183000
+Al Nahda,1,1,1084,Unfurnished,55000
+Jumeirah Beach Residence (JBR),3,3,2409,Partly Furnished,272000
+Dubai Sports City,0,1,521,Unfurnished,27000
+Discovery Gardens,2,3,1212,Unfurnished,54000
+Dubai Sports City,2,2,1212,Unfurnished,88000
+Al Nahda,4,5,4089,Unfurnished,192000
+Jumeirah Village Circle (JVC),2,2,1515,Partly Furnished,91000
+Jumeirah Beach Residence (JBR),1,2,979,Unfurnished,129000
+Dubai Silicon Oasis,2,3,1300,Unfurnished,62000
+International City,2,2,1502,Furnished,84000
+Business Bay,0,1,477,Partly Furnished,60000
+Downtown Dubai,2,3,1250,Partly Furnished,168000
+Palm Jumeirah,1,2,1199,Partly Furnished,147000
+Dubai Sports City,3,3,1859,Furnished,134000
+Jumeirah Village Circle (JVC),2,2,1503,Furnished,145000
+Jumeirah Lake Towers (JLT),0,1,453,Furnished,35000
+Business Bay,2,2,1437,Unfurnished,151000
+Palm Jumeirah,1,2,988,Unfurnished,113000
+Jumeirah Beach Residence (JBR),2,2,1500,Unfurnished,172000
+Jumeirah Lake Towers (JLT),2,3,1137,Furnished,126000
+Dubai Marina,1,1,985,Furnished,148000
+Dubai Marina,1,2,846,Partly Furnished,98000
+Jumeirah Village Circle (JVC),4,5,2976,Unfurnished,243000
+Dubai Marina,4,4,2996,Partly Furnished,390000
+Jumeirah Lake Towers (JLT),0,1,602,Unfurnished,55000
+Jumeirah Lake Towers (JLT),1,1,1189,Furnished,134000
+International City,0,1,637,Furnished,29000
+Business Bay,1,2,972,Furnished,105000
+Downtown Dubai,2,3,1637,Furnished,305000
+Dubai Sports City,1,1,735,Furnished,65000
+Dubai Silicon Oasis,2,3,1570,Unfurnished,96000
+Al Nahda,2,2,1674,Furnished,124000
+Dubai Marina,1,2,1025,Unfurnished,105000
+Jumeirah Village Circle (JVC),2,3,1104,Unfurnished,80000
+Dubai Marina,1,1,1010,Unfurnished,99000
+Al Nahda,2,2,1219,Unfurnished,53000
+Business Bay,0,1,466,Unfurnished,46000
+Discovery Gardens,0,1,471,Unfurnished,22000
+International City,2,3,1336,Unfurnished,68000
+Jumeirah Lake Towers (JLT),2,3,1346,Unfurnished,106000
+International City,0,1,634,Unfurnished,19000
+Jumeirah Beach Residence (JBR),3,4,2152,Unfurnished,203000
+Dubai Sports City,1,1,953,Unfurnished,60000
+Dubai Marina,2,3,1279,Unfurnished,141000
+Downtown Dubai,3,3,2215,Furnished,426000
+Discovery Gardens,3,4,2174,Furnished,155000
+Jumeirah Beach Residence (JBR),0,1,528,Furnished,83000
+Business Bay,2,2,1655,Unfurnished,139000
+Dubai Marina,0,1,591,Furnished,62000
+Jumeirah Beach Residence (JBR),2,3,1517,Unfurnished,177000
+Dubai Marina,1,1,1112,Unfurnished,123000
+Jumeirah Village Circle (JVC),1,1,1156,Partly Furnished,93000
+Business Bay,0,1,445,Unfurnished,55000
+Dubai Silicon Oasis,1,1,978,Furnished,67000
+Discovery Gardens,1,2,916,Unfurnished,54000
+Jumeirah Lake Towers (JLT),0,1,582,Furnished,62000
+Palm Jumeirah,2,3,1605,Furnished,254000
+Jumeirah Lake Towers (JLT),1,1,1168,Furnished,142000
+Jumeirah Lake Towers (JLT),0,1,391,Furnished,44000
+Jumeirah Beach Residence (JBR),2,2,1334,Furnished,231000
+Discovery Gardens,2,2,1352,Furnished,81000
+Business Bay,1,1,821,Unfurnished,76000
+Dubai Sports City,2,2,1441,Furnished,149000
+Discovery Gardens,2,3,1351,Unfurnished,80000
+Discovery Gardens,1,2,718,Unfurnished,34000
+Dubai Marina,1,2,847,Unfurnished,78000
+International City,2,2,1447,Furnished,68000
+Discovery Gardens,3,4,1816,Furnished,105000
+Palm Jumeirah,0,1,498,Unfurnished,85000
+Al Nahda,1,1,719,Unfurnished,29000
+Dubai Sports City,1,1,1072,Furnished,85000
+Jumeirah Beach Residence (JBR),3,4,2435,Unfurnished,242000
+Palm Jumeirah,1,2,1047,Furnished,160000
+Dubai Silicon Oasis,1,1,740,Unfurnished,39000
+Jumeirah Village Circle (JVC),1,1,911,Furnished,65000
+Business Bay,0,1,431,Unfurnished,47000
+Discovery Gardens,0,1,635,Furnished,31000
+Dubai Sports City,1,1,845,Furnished,59000
+Al Nahda,1,2,1014,Furnished,70000
+Jumeirah Beach Residence (JBR),1,1,1104,Unfurnished,151000
+Discovery Gardens,4,5,3270,Partly Furnished,228000
+Jumeirah Lake Towers (JLT),2,2,1184,Unfurnished,91000
+Downtown Dubai,2,3,1548,Furnished,236000
+Jumeirah Beach Residence (JBR),0,1,503,Unfurnished,60000
+Downtown Dubai,1,1,753,Furnished,100000
+Jumeirah Lake Towers (JLT),2,2,1402,Unfurnished,132000
+Jumeirah Village Circle (JVC),2,2,1521,Furnished,156000
+Business Bay,2,2,1534,Furnished,176000
+Dubai Marina,2,3,1641,Furnished,269000
+Jumeirah Beach Residence (JBR),0,1,533,Furnished,76000
+International City,0,1,611,Unfurnished,24000
+Dubai Sports City,1,1,810,Unfurnished,41000
+Jumeirah Lake Towers (JLT),0,1,357,Unfurnished,31000
+Jumeirah Beach Residence (JBR),3,3,1792,Furnished,248000
+Discovery Gardens,2,3,1633,Unfurnished,72000
+Dubai Silicon Oasis,1,2,1132,Partly Furnished,73000
+Jumeirah Village Circle (JVC),2,2,1313,Unfurnished,110000
+Discovery Gardens,0,1,375,Furnished,21000
+Dubai Silicon Oasis,4,4,3138,Furnished,221000
+Palm Jumeirah,1,2,1064,Unfurnished,114000
+Business Bay,2,2,1462,Partly Furnished,131000
+Palm Jumeirah,1,1,891,Unfurnished,103000
+Jumeirah Beach Residence (JBR),1,1,785,Unfurnished,81000
+Dubai Sports City,2,3,1493,Furnished,109000
+Al Nahda,1,2,810,Furnished,44000
+Al Nahda,1,2,879,Furnished,53000
+Business Bay,4,4,3900,Unfurnished,297000
+Dubai Sports City,1,2,1049,Unfurnished,57000
+International City,3,3,2598,Partly Furnished,125000
+Jumeirah Village Circle (JVC),0,1,569,Furnished,42000
+International City,1,2,1134,Furnished,64000
+Jumeirah Village Circle (JVC),1,1,999,Unfurnished,83000
+Jumeirah Lake Towers (JLT),1,2,812,Partly Furnished,84000
+Jumeirah Beach Residence (JBR),0,1,488,Furnished,65000
+Palm Jumeirah,1,2,709,Partly Furnished,101000
+Al Nahda,2,3,1420,Unfurnished,51000
+Dubai Silicon Oasis,1,2,1118,Unfurnished,84000
+Dubai Marina,4,5,4408,Furnished,637000
+Downtown Dubai,0,1,645,Furnished,84000
+Dubai Marina,2,2,1369,Furnished,190000
+Palm Jumeirah,1,2,1109,Furnished,176000
+Discovery Gardens,2,3,1394,Furnished,109000
+Palm Jumeirah,1,1,842,Partly Furnished,115000
+Discovery Gardens,1,1,803,Unfurnished,42000
+Jumeirah Village Circle (JVC),1,1,1155,Furnished,91000
+International City,1,2,930,Partly Furnished,53000
+Dubai Marina,2,2,1388,Unfurnished,158000
+Jumeirah Village Circle (JVC),3,3,1817,Furnished,138000
+Jumeirah Village Circle (JVC),0,1,533,Partly Furnished,40000
+International City,1,1,829,Unfurnished,36000
+Dubai Silicon Oasis,2,2,1168,Furnished,100000
+Al Nahda,1,1,1002,Unfurnished,55000
+Business Bay,0,1,559,Furnished,59000
+Al Nahda,3,4,2023,Furnished,103000
+Downtown Dubai,2,2,1477,Unfurnished,136000
+Discovery Gardens,2,2,1506,Unfurnished,66000
+Dubai Sports City,1,1,1012,Unfurnished,56000
+Dubai Marina,2,2,1408,Unfurnished,149000
+Discovery Gardens,1,1,943,Partly Furnished,62000
+Al Nahda,1,2,1046,Unfurnished,45000
+Business Bay,0,1,501,Partly Furnished,42000
+Discovery Gardens,1,1,762,Unfurnished,33000
+Jumeirah Lake Towers (JLT),1,1,783,Unfurnished,71000
+Dubai Marina,1,2,748,Unfurnished,71000
+Business Bay,1,2,910,Unfurnished,90000
+Jumeirah Village Circle (JVC),1,2,1123,Partly Furnished,80000
+Palm Jumeirah,1,2,1175,Unfurnished,167000
+Dubai Silicon Oasis,0,1,613,Furnished,53000
+Downtown Dubai,1,2,861,Unfurnished,78000
+Dubai Sports City,2,2,1107,Unfurnished,59000
+Dubai Sports City,2,2,1427,Unfurnished,95000
+Business Bay,2,2,1363,Unfurnished,125000
+Al Nahda,3,3,2151,Furnished,110000
+Palm Jumeirah,1,2,706,Furnished,139000
+Al Nahda,0,1,385,Furnished,27000
+Dubai Marina,2,2,1485,Unfurnished,135000
+Discovery Gardens,1,2,921,Unfurnished,52000
+Business Bay,4,5,3803,Unfurnished,417000
+Discovery Gardens,1,2,908,Unfurnished,50000
+Al Nahda,2,2,1458,Unfurnished,74000
+International City,0,1,378,Unfurnished,13000
+Jumeirah Beach Residence (JBR),3,3,1741,Partly Furnished,198000
+Palm Jumeirah,2,3,1687,Unfurnished,170000
+Jumeirah Lake Towers (JLT),3,4,2430,Partly Furnished,237000
+Palm Jumeirah,1,1,1100,Unfurnished,142000
+Al Nahda,0,1,542,Unfurnished,26000
+Al Nahda,1,2,710,Unfurnished,36000
+Downtown Dubai,2,3,1154,Furnished,213000
+International City,1,2,938,Unfurnished,37000
+Jumeirah Lake Towers (JLT),1,1,1190,Unfurnished,100000
+Dubai Silicon Oasis,0,1,366,Unfurnished,24000
+Downtown Dubai,1,1,830,Unfurnished,87000
+Dubai Marina,0,1,361,Unfurnished,34000
+Jumeirah Lake Towers (JLT),0,1,406,Unfurnished,30000
+Business Bay,3,4,2360,Furnished,322000
+Jumeirah Beach Residence (JBR),4,5,3612,Furnished,498000
+Downtown Dubai,2,3,1115,Furnished,148000
+Jumeirah Beach Residence (JBR),3,4,2034,Furnished,285000
+International City,4,4,4000,Unfurnished,202000
+Dubai Marina,1,2,802,Unfurnished,83000
+Dubai Marina,0,1,447,Furnished,59000
+Dubai Sports City,1,1,714,Furnished,60000
+Dubai Silicon Oasis,2,2,1115,Unfurnished,76000
+Dubai Marina,1,2,1113,Unfurnished,100000
+Al Nahda,3,3,1738,Unfurnished,64000
+Palm Jumeirah,0,1,585,Furnished,124000
+Palm Jumeirah,2,2,1458,Partly Furnished,213000
+Discovery Gardens,1,2,857,Furnished,62000
+Dubai Silicon Oasis,1,1,1193,Unfurnished,59000
+Al Nahda,0,1,536,Furnished,33000
+Palm Jumeirah,1,2,1018,Furnished,173000
+Business Bay,1,2,959,Unfurnished,113000
+Al Nahda,2,2,1465,Unfurnished,59000
+International City,1,1,1075,Unfurnished,40000
+Jumeirah Village Circle (JVC),3,3,1719,Furnished,124000
+Jumeirah Beach Residence (JBR),2,3,1244,Unfurnished,149000
+Al Nahda,1,1,788,Partly Furnished,40000
+Dubai Sports City,3,3,2334,Unfurnished,188000
+Dubai Sports City,3,3,2162,Furnished,161000
+Jumeirah Beach Residence (JBR),1,1,737,Unfurnished,90000
+Dubai Sports City,0,1,525,Furnished,37000
+Business Bay,1,2,1017,Partly Furnished,119000
+Jumeirah Village Circle (JVC),2,2,1388,Furnished,135000
+Discovery Gardens,3,3,2515,Furnished,195000
+Discovery Gardens,2,2,1521,Unfurnished,101000
+Jumeirah Lake Towers (JLT),1,1,722,Unfurnished,64000
+Dubai Silicon Oasis,3,4,2055,Partly Furnished,142000
+Al Nahda,1,1,745,Unfurnished,34000
+Dubai Silicon Oasis,1,2,1043,Furnished,64000
+Dubai Marina,0,1,582,Furnished,73000
+Jumeirah Beach Residence (JBR),3,3,1977,Furnished,273000
+Jumeirah Beach Residence (JBR),1,1,711,Unfurnished,80000
+Dubai Marina,2,2,1309,Furnished,224000
+Jumeirah Lake Towers (JLT),2,2,1480,Unfurnished,107000
+Downtown Dubai,1,2,1134,Unfurnished,101000
+International City,1,2,1164,Unfurnished,55000
+Al Nahda,2,2,1229,Furnished,62000
+Jumeirah Beach Residence (JBR),3,4,2447,Unfurnished,325000
+International City,3,4,2473,Furnished,120000
+Jumeirah Beach Residence (JBR),1,2,714,Furnished,95000
+Downtown Dubai,2,3,1370,Unfurnished,156000
+Dubai Marina,1,1,1008,Unfurnished,105000
+Dubai Sports City,0,1,530,Furnished,47000
+Discovery Gardens,1,2,905,Partly Furnished,52000
+Downtown Dubai,2,3,1600,Unfurnished,207000
+Jumeirah Beach Residence (JBR),1,2,976,Unfurnished,105000
+Dubai Marina,2,3,1110,Furnished,176000
+Downtown Dubai,0,1,563,Furnished,67000
+Jumeirah Lake Towers (JLT),2,2,1691,Unfurnished,120000
+Dubai Marina,2,3,1101,Partly Furnished,134000
+Al Nahda,2,3,1202,Unfurnished,62000
+Jumeirah Beach Residence (JBR),2,3,1205,Unfurnished,117000
+Business Bay,2,3,1108,Furnished,112000
+Discovery Gardens,2,3,1417,Furnished,97000
+Dubai Silicon Oasis,2,3,1489,Furnished,113000
+Jumeirah Beach Residence (JBR),1,2,713,Unfurnished,63000
+Al Nahda,1,1,942,Unfurnished,53000
+Palm Jumeirah,1,1,1008,Furnished,172000
+Dubai Sports City,2,3,1648,Furnished,161000
+International City,1,1,1144,Unfurnished,36000
+International City,1,2,912,Furnished,51000
+Dubai Silicon Oasis,1,2,1081,Furnished,71000
+Jumeirah Beach Residence (JBR),2,3,1349,Furnished,203000
+Dubai Silicon Oasis,3,4,1994,Unfurnished,134000
+Jumeirah Village Circle (JVC),1,1,717,Furnished,61000
+Jumeirah Beach Residence (JBR),2,3,1577,Unfurnished,174000
+Dubai Marina,1,1,1121,Unfurnished,114000
+Dubai Marina,1,2,930,Unfurnished,94000
+Discovery Gardens,1,1,727,Unfurnished,39000
+Jumeirah Village Circle (JVC),2,3,1400,Unfurnished,91000
+Jumeirah Lake Towers (JLT),1,2,1157,Unfurnished,95000
+Jumeirah Village Circle (JVC),1,2,870,Furnished,64000
+Jumeirah Village Circle (JVC),1,1,1120,Unfurnished,81000
+Dubai Silicon Oasis,2,3,1255,Furnished,97000
+Dubai Sports City,0,1,479,Unfurnished,25000
+Downtown Dubai,2,2,1297,Unfurnished,120000
+Discovery Gardens,2,3,1589,Unfurnished,86000
+Discovery Gardens,0,1,566,Furnished,42000
+Discovery Gardens,1,2,1106,Furnished,56000
+Dubai Marina,1,2,1133,Unfurnished,139000
+Downtown Dubai,0,1,613,Unfurnished,72000
+Jumeirah Village Circle (JVC),1,1,1010,Furnished,73000
+Dubai Sports City,1,2,835,Furnished,68000
+Jumeirah Lake Towers (JLT),2,3,1100,Unfurnished,94000
+Dubai Marina,2,3,1319,Unfurnished,139000
+Jumeirah Beach Residence (JBR),3,3,2387,Furnished,269000
+Jumeirah Beach Residence (JBR),0,1,447,Unfurnished,48000
+Jumeirah Beach Residence (JBR),2,3,1496,Furnished,218000
+Al Nahda,0,1,438,Unfurnished,23000
+Dubai Silicon Oasis,2,2,1572,Partly Furnished,104000
+Palm Jumeirah,0,1,616,Furnished,114000
+Jumeirah Village Circle (JVC),1,1,784,Furnished,66000
+Palm Jumeirah,0,1,503,Unfurnished,59000
+Business Bay,1,2,970,Unfurnished,101000
+Dubai Silicon Oasis,2,2,1120,Unfurnished,56000
+Jumeirah Beach Residence (JBR),3,3,2503,Furnished,315000
+Dubai Marina,1,2,1033,Unfurnished,94000
+Dubai Silicon Oasis,1,1,855,Partly Furnished,53000
+Al Nahda,2,2,1688,Unfurnished,65000
+Dubai Marina,2,3,1138,Partly Furnished,131000
+Downtown Dubai,2,3,1135,Unfurnished,121000
+Discovery Gardens,1,1,1061,Unfurnished,46000
+Al Nahda,1,2,1092,Furnished,66000
+Downtown Dubai,1,2,771,Furnished,112000
+Dubai Marina,1,2,718,Furnished,107000
+Jumeirah Beach Residence (JBR),2,3,1538,Partly Furnished,173000
+Palm Jumeirah,3,3,2360,Unfurnished,265000
+Jumeirah Village Circle (JVC),2,3,1622,Unfurnished,107000
+Dubai Silicon Oasis,1,2,1019,Unfurnished,65000
+Dubai Silicon Oasis,1,1,1124,Furnished,93000
+Jumeirah Beach Residence (JBR),0,1,567,Unfurnished,78000
+Jumeirah Village Circle (JVC),1,1,1052,Partly Furnished,73000
+Downtown Dubai,1,1,895,Unfurnished,126000
+Palm Jumeirah,0,1,509,Partly Furnished,90000
+Jumeirah Village Circle (JVC),1,1,757,Unfurnished,60000
+Downtown Dubai,2,2,1453,Unfurnished,165000
+Jumeirah Village Circle (JVC),0,1,636,Furnished,46000
+Business Bay,1,1,1099,Unfurnished,108000
+Dubai Silicon Oasis,1,2,936,Unfurnished,60000
+Business Bay,2,3,1463,Unfurnished,140000
+Jumeirah Village Circle (JVC),1,2,930,Furnished,82000
+Dubai Sports City,1,1,841,Unfurnished,46000
+Dubai Sports City,1,2,1174,Unfurnished,80000
+Al Nahda,1,2,895,Furnished,50000
+Discovery Gardens,2,3,1200,Unfurnished,62000
+Dubai Sports City,1,1,990,Furnished,83000
+Dubai Silicon Oasis,0,1,356,Unfurnished,17000
+Palm Jumeirah,1,2,1118,Unfurnished,185000
+Jumeirah Beach Residence (JBR),2,2,1352,Furnished,222000
+Business Bay,2,3,1337,Unfurnished,128000
+Jumeirah Beach Residence (JBR),0,1,466,Unfurnished,52000
+Downtown Dubai,1,1,1143,Furnished,148000
+International City,3,4,2357,Unfurnished,100000
+Dubai Sports City,0,1,479,Furnished,30000
+Al Nahda,2,3,1444,Unfurnished,77000
+Downtown Dubai,2,2,1182,Unfurnished,124000
+Dubai Sports City,1,1,779,Furnished,67000
+Jumeirah Lake Towers (JLT),1,1,1058,Unfurnished,78000
+Downtown Dubai,2,3,1162,Furnished,173000
+Downtown Dubai,1,1,791,Unfurnished,81000
+International City,4,4,2885,Unfurnished,122000
+Dubai Silicon Oasis,2,2,1522,Furnished,113000
+Al Nahda,2,2,1437,Unfurnished,56000
+Al Nahda,1,1,890,Unfurnished,37000
+Palm Jumeirah,0,1,383,Unfurnished,56000
+Downtown Dubai,1,2,1112,Unfurnished,160000
+Al Nahda,4,4,3643,Unfurnished,189000
+Dubai Marina,1,2,941,Unfurnished,114000
+Palm Jumeirah,2,3,1299,Unfurnished,201000
+Dubai Marina,3,3,2115,Furnished,247000
+International City,0,1,436,Furnished,17000
+Dubai Marina,0,1,482,Partly Furnished,53000
+Discovery Gardens,4,5,2898,Furnished,206000
+Jumeirah Beach Residence (JBR),1,1,1049,Furnished,120000
+Jumeirah Village Circle (JVC),0,1,569,Furnished,51000
+Dubai Marina,4,4,3445,Unfurnished,311000
+International City,0,1,566,Partly Furnished,23000
+Jumeirah Beach Residence (JBR),2,3,1587,Unfurnished,192000
+International City,1,2,1079,Unfurnished,34000
+International City,2,2,1587,Unfurnished,65000
+Downtown Dubai,3,4,2424,Furnished,328000
+International City,4,5,4067,Unfurnished,184000
+Dubai Marina,1,1,1096,Unfurnished,144000
+Jumeirah Village Circle (JVC),2,2,1335,Unfurnished,88000
+Discovery Gardens,1,2,984,Furnished,56000
+International City,0,1,399,Unfurnished,18000
+International City,2,2,1520,Partly Furnished,66000
+Al Nahda,2,2,1129,Furnished,76000
+Jumeirah Lake Towers (JLT),1,2,885,Unfurnished,69000
+Business Bay,4,5,4006,Unfurnished,412000
+Jumeirah Beach Residence (JBR),2,3,1401,Furnished,167000
+Discovery Gardens,2,3,1697,Furnished,135000
+Dubai Sports City,0,1,470,Furnished,34000
+Jumeirah Lake Towers (JLT),0,1,419,Furnished,50000
+Jumeirah Beach Residence (JBR),1,2,1093,Furnished,156000
+Business Bay,1,2,1058,Unfurnished,105000
+Jumeirah Village Circle (JVC),2,3,1372,Partly Furnished,104000
+Palm Jumeirah,0,1,535,Partly Furnished,83000
+Discovery Gardens,2,3,1258,Unfurnished,63000
+Discovery Gardens,0,1,501,Unfurnished,31000
+Business Bay,2,3,1118,Unfurnished,90000
+Dubai Silicon Oasis,1,2,1018,Unfurnished,66000
+Jumeirah Lake Towers (JLT),4,5,3641,Furnished,374000
+Dubai Marina,2,2,1498,Unfurnished,175000
+Downtown Dubai,2,3,1604,Partly Furnished,235000
+Dubai Silicon Oasis,2,3,1353,Partly Furnished,105000
+International City,2,2,1525,Furnished,68000
+International City,1,2,748,Unfurnished,38000
+Dubai Marina,2,3,1394,Unfurnished,149000
+Dubai Marina,2,3,1463,Unfurnished,174000
+Al Nahda,4,5,3931,Unfurnished,167000
+Jumeirah Beach Residence (JBR),1,2,969,Unfurnished,104000
+Al Nahda,1,1,769,Unfurnished,34000
+Business Bay,0,1,599,Partly Furnished,58000
+Palm Jumeirah,2,3,1498,Unfurnished,235000
+Jumeirah Lake Towers (JLT),2,2,1525,Furnished,180000
+Dubai Marina,1,1,781,Unfurnished,84000
+Jumeirah Beach Residence (JBR),1,1,1044,Furnished,163000
+Jumeirah Lake Towers (JLT),0,1,466,Unfurnished,37000
+Business Bay,2,2,1672,Unfurnished,158000
+Palm Jumeirah,2,2,1628,Furnished,262000
+Dubai Silicon Oasis,1,1,701,Furnished,43000
+Al Nahda,3,3,2336,Furnished,138000
+Dubai Sports City,0,1,408,Unfurnished,23000
+Business Bay,1,1,976,Unfurnished,93000
+International City,1,2,931,Furnished,59000
+Discovery Gardens,1,1,867,Furnished,57000
+Al Nahda,0,1,603,Unfurnished,26000
+Downtown Dubai,2,2,1535,Unfurnished,162000
+Discovery Gardens,1,1,967,Partly Furnished,54000
+Al Nahda,2,2,1171,Furnished,74000
+Business Bay,1,2,1015,Furnished,133000
+Discovery Gardens,3,3,1982,Unfurnished,115000
+Dubai Marina,1,2,707,Furnished,92000
+Palm Jumeirah,1,2,1065,Unfurnished,176000
+Business Bay,1,2,828,Unfurnished,100000
+Dubai Marina,2,3,1201,Furnished,155000
+Dubai Marina,2,2,1452,Unfurnished,162000
+Dubai Sports City,1,1,888,Unfurnished,56000
+Al Nahda,0,1,409,Unfurnished,21000
+Palm Jumeirah,1,1,915,Unfurnished,135000
+Business Bay,1,1,855,Furnished,83000
+Business Bay,0,1,390,Furnished,43000
+International City,1,2,849,Furnished,53000
+Jumeirah Beach Residence (JBR),1,1,911,Furnished,104000
+Dubai Sports City,0,1,396,Unfurnished,27000
+Jumeirah Lake Towers (JLT),2,2,1290,Unfurnished,115000
+Jumeirah Beach Residence (JBR),1,1,926,Furnished,132000
+Discovery Gardens,3,3,2250,Furnished,131000
+Discovery Gardens,2,3,1350,Unfurnished,60000
+Business Bay,1,2,799,Unfurnished,65000
+Al Nahda,2,2,1695,Unfurnished,72000
+Dubai Silicon Oasis,4,5,4467,Furnished,424000
+Business Bay,2,3,1272,Furnished,162000
+Downtown Dubai,2,3,1497,Unfurnished,139000
+Dubai Marina,1,1,1019,Partly Furnished,114000
+Discovery Gardens,0,1,571,Partly Furnished,29000
+Jumeirah Village Circle (JVC),3,3,2321,Unfurnished,192000
+Business Bay,1,2,1068,Unfurnished,96000
+Downtown Dubai,2,2,1424,Unfurnished,151000
+Downtown Dubai,2,2,1544,Unfurnished,194000
+Jumeirah Lake Towers (JLT),4,5,3824,Furnished,355000
+Palm Jumeirah,1,1,1060,Unfurnished,116000
+Discovery Gardens,3,4,2487,Furnished,178000
+Business Bay,0,1,609,Unfurnished,61000
+Palm Jumeirah,4,5,2846,Furnished,494000
+Dubai Sports City,0,1,502,Unfurnished,27000
+Dubai Silicon Oasis,3,3,2079,Unfurnished,122000
+Al Nahda,2,3,1390,Unfurnished,68000
+Dubai Sports City,1,1,1001,Unfurnished,77000
+Jumeirah Village Circle (JVC),1,1,1040,Unfurnished,61000
+Al Nahda,0,1,582,Unfurnished,24000
+Downtown Dubai,0,1,408,Partly Furnished,62000
+Dubai Marina,2,2,1432,Furnished,159000
+Dubai Marina,2,3,1555,Furnished,191000
+Dubai Sports City,1,2,802,Furnished,75000
+Palm Jumeirah,0,1,507,Unfurnished,58000
+Al Nahda,2,3,1423,Unfurnished,66000
+Downtown Dubai,0,1,433,Furnished,60000
+Jumeirah Lake Towers (JLT),2,3,1204,Furnished,146000
+International City,1,1,817,Unfurnished,27000
+Al Nahda,2,2,1613,Partly Furnished,107000
+Palm Jumeirah,2,2,1367,Unfurnished,186000
+Jumeirah Village Circle (JVC),0,1,562,Furnished,42000
+Palm Jumeirah,2,3,1376,Furnished,233000
+Downtown Dubai,1,1,1185,Furnished,184000
+Business Bay,2,3,1271,Furnished,145000
+Jumeirah Lake Towers (JLT),2,3,1217,Furnished,132000
+Downtown Dubai,1,1,706,Unfurnished,95000
+Jumeirah Lake Towers (JLT),1,1,901,Furnished,95000
+Jumeirah Beach Residence (JBR),0,1,475,Partly Furnished,53000
+Discovery Gardens,1,2,815,Partly Furnished,44000
+Jumeirah Beach Residence (JBR),1,2,1024,Unfurnished,138000
+Discovery Gardens,0,1,503,Unfurnished,21000
+Dubai Marina,1,2,961,Furnished,119000
+Jumeirah Lake Towers (JLT),3,3,2248,Furnished,231000
+Al Nahda,2,3,1300,Furnished,79000
+Jumeirah Village Circle (JVC),1,1,923,Unfurnished,59000
+International City,2,3,1464,Furnished,85000
+Dubai Sports City,1,2,808,Unfurnished,41000
+Palm Jumeirah,1,2,838,Partly Furnished,119000
+Jumeirah Beach Residence (JBR),0,1,460,Furnished,60000
+Palm Jumeirah,2,3,1203,Unfurnished,180000
+Palm Jumeirah,2,3,1383,Furnished,274000
+Jumeirah Village Circle (JVC),0,1,440,Furnished,41000
+Downtown Dubai,3,3,2457,Furnished,332000
+Palm Jumeirah,1,2,711,Furnished,142000
+Dubai Sports City,0,1,419,Partly Furnished,27000
+Jumeirah Lake Towers (JLT),1,2,1106,Unfurnished,92000
+Jumeirah Village Circle (JVC),2,2,1181,Unfurnished,84000
+Discovery Gardens,2,2,1147,Furnished,56000
+Dubai Sports City,2,2,1246,Unfurnished,65000
+Jumeirah Beach Residence (JBR),4,4,2786,Furnished,470000
+Business Bay,0,1,403,Partly Furnished,47000
+Palm Jumeirah,2,2,1646,Unfurnished,237000
+Dubai Sports City,4,5,3293,Furnished,217000
+Dubai Marina,2,2,1648,Furnished,195000
+Jumeirah Village Circle (JVC),2,3,1300,Furnished,128000
+Downtown Dubai,0,1,614,Furnished,87000
+Dubai Silicon Oasis,0,1,424,Unfurnished,23000
+Jumeirah Beach Residence (JBR),3,4,1744,Furnished,238000
+Jumeirah Beach Residence (JBR),0,1,511,Furnished,71000
+Dubai Silicon Oasis,0,1,362,Furnished,26000
+Jumeirah Lake Towers (JLT),1,1,1161,Unfurnished,79000
+Business Bay,2,2,1420,Partly Furnished,123000
+Jumeirah Beach Residence (JBR),1,1,1012,Furnished,130000
+Jumeirah Beach Residence (JBR),3,4,1709,Furnished,252000
+Downtown Dubai,1,2,1111,Unfurnished,118000
+Discovery Gardens,2,3,1304,Furnished,91000
+Jumeirah Beach Residence (JBR),1,2,1037,Furnished,152000
+Jumeirah Village Circle (JVC),1,1,1178,Unfurnished,92000
+Jumeirah Lake Towers (JLT),2,2,1442,Partly Furnished,125000
+Business Bay,3,4,1856,Furnished,237000
+Dubai Marina,2,3,1527,Partly Furnished,223000
+Business Bay,1,2,811,Furnished,98000
+Jumeirah Lake Towers (JLT),0,1,566,Furnished,44000
+Discovery Gardens,2,2,1200,Furnished,95000
+Al Nahda,2,3,1632,Unfurnished,92000
+Jumeirah Village Circle (JVC),0,1,377,Furnished,29000
+Discovery Gardens,2,2,1335,Unfurnished,75000
+Al Nahda,2,3,1130,Furnished,70000
+Jumeirah Lake Towers (JLT),2,3,1199,Furnished,124000
+Downtown Dubai,0,1,612,Unfurnished,88000
+Dubai Marina,0,1,377,Furnished,47000
+Business Bay,1,1,712,Unfurnished,59000
+Palm Jumeirah,1,1,773,Unfurnished,96000
+International City,0,1,487,Unfurnished,21000
+Business Bay,3,4,2235,Furnished,285000
+Downtown Dubai,1,1,1039,Unfurnished,107000
+Dubai Marina,0,1,632,Partly Furnished,59000
+International City,1,1,833,Unfurnished,31000
+Jumeirah Village Circle (JVC),2,2,1111,Unfurnished,71000
+Jumeirah Lake Towers (JLT),4,4,2806,Unfurnished,284000
+Dubai Sports City,2,3,1144,Unfurnished,61000
+Jumeirah Lake Towers (JLT),1,2,925,Unfurnished,83000
+Jumeirah Village Circle (JVC),0,1,439,Furnished,33000
+International City,2,2,1242,Partly Furnished,59000
+Al Nahda,2,2,1461,Furnished,98000
+Dubai Marina,1,1,880,Partly Furnished,110000
+Jumeirah Village Circle (JVC),2,2,1148,Furnished,95000
+International City,1,1,1188,Furnished,72000
+Jumeirah Beach Residence (JBR),1,1,1158,Unfurnished,121000
+Business Bay,2,3,1672,Furnished,247000
+Downtown Dubai,3,4,1909,Partly Furnished,218000
+Dubai Sports City,2,3,1192,Unfurnished,91000
+Jumeirah Village Circle (JVC),0,1,399,Furnished,33000
+Downtown Dubai,1,1,951,Furnished,170000
+Al Nahda,2,2,1456,Unfurnished,67000
+Al Nahda,2,3,1489,Unfurnished,88000
+Discovery Gardens,3,3,2510,Partly Furnished,182000
+Dubai Sports City,1,2,1177,Furnished,87000
+Dubai Sports City,2,2,1695,Partly Furnished,132000
+Dubai Sports City,0,1,423,Furnished,32000
+Discovery Gardens,2,2,1269,Unfurnished,79000
+Jumeirah Beach Residence (JBR),0,1,450,Unfurnished,52000
+Jumeirah Lake Towers (JLT),0,1,577,Unfurnished,49000
+Jumeirah Village Circle (JVC),4,5,3100,Furnished,243000
+Dubai Marina,2,2,1458,Partly Furnished,168000
+Discovery Gardens,1,2,880,Unfurnished,47000
+Jumeirah Lake Towers (JLT),1,1,1103,Unfurnished,86000
+International City,0,1,542,Unfurnished,25000
+Jumeirah Lake Towers (JLT),4,4,3779,Unfurnished,323000
+Discovery Gardens,2,2,1208,Unfurnished,80000
+Dubai Marina,3,3,2161,Furnished,281000
+Dubai Sports City,1,1,1091,Unfurnished,69000
+Business Bay,1,1,1174,Unfurnished,135000
+Al Nahda,1,2,982,Furnished,58000
+Business Bay,2,3,1103,Unfurnished,125000
+Discovery Gardens,1,1,1064,Unfurnished,50000
+Jumeirah Village Circle (JVC),0,1,598,Unfurnished,40000
+Jumeirah Lake Towers (JLT),1,1,1121,Unfurnished,97000
+Jumeirah Village Circle (JVC),0,1,387,Furnished,34000
+Dubai Sports City,2,3,1405,Furnished,120000
+Business Bay,1,1,1081,Unfurnished,124000
+Al Nahda,1,2,912,Partly Furnished,41000
+Palm Jumeirah,1,2,901,Unfurnished,111000
+Jumeirah Beach Residence (JBR),1,2,709,Unfurnished,82000
+Jumeirah Village Circle (JVC),2,2,1201,Furnished,103000
+Discovery Gardens,4,4,3611,Unfurnished,152000
+Jumeirah Village Circle (JVC),2,2,1506,Unfurnished,112000
+Discovery Gardens,0,1,518,Unfurnished,25000
+Dubai Sports City,4,4,3860,Furnished,340000
+Palm Jumeirah,3,3,2548,Unfurnished,315000
+International City,2,3,1468,Unfurnished,62000
+International City,2,3,1414,Partly Furnished,70000
+Business Bay,1,1,892,Unfurnished,80000
+Jumeirah Village Circle (JVC),4,5,4006,Furnished,324000
+Al Nahda,2,2,1551,Furnished,93000
+Downtown Dubai,1,2,706,Unfurnished,106000
+Business Bay,4,4,3733,Unfurnished,295000
+Business Bay,0,1,402,Unfurnished,38000
+Jumeirah Beach Residence (JBR),1,1,1111,Unfurnished,109000
+Jumeirah Village Circle (JVC),1,2,1188,Furnished,85000
+International City,1,2,988,Furnished,56000
+International City,1,1,827,Furnished,34000
+Discovery Gardens,1,2,1060,Furnished,58000
+Jumeirah Lake Towers (JLT),1,2,757,Unfurnished,63000
+Dubai Silicon Oasis,2,2,1303,Unfurnished,82000
+Dubai Silicon Oasis,2,3,1685,Furnished,110000
+Dubai Silicon Oasis,1,1,929,Unfurnished,56000
+Discovery Gardens,1,1,1066,Partly Furnished,68000
+Jumeirah Beach Residence (JBR),1,1,965,Unfurnished,118000
+Al Nahda,1,1,957,Furnished,63000
+Dubai Silicon Oasis,1,1,1014,Furnished,82000
+Dubai Sports City,2,3,1513,Furnished,105000
+Palm Jumeirah,2,2,1236,Unfurnished,193000
+Discovery Gardens,2,3,1361,Furnished,68000
+Dubai Marina,1,1,943,Furnished,142000
+Business Bay,1,1,1078,Furnished,107000
+Al Nahda,2,2,1140,Unfurnished,55000
+Discovery Gardens,1,1,810,Furnished,41000
+Discovery Gardens,1,1,998,Unfurnished,43000
+International City,2,3,1260,Furnished,59000
+Jumeirah Lake Towers (JLT),2,3,1374,Unfurnished,109000
+Dubai Marina,1,2,1020,Unfurnished,123000
+Jumeirah Beach Residence (JBR),2,2,1172,Unfurnished,143000
+Discovery Gardens,3,3,2393,Furnished,135000
+Business Bay,1,2,1062,Furnished,147000
+Jumeirah Beach Residence (JBR),1,1,736,Furnished,100000
+Jumeirah Beach Residence (JBR),2,3,1284,Unfurnished,147000
+Palm Jumeirah,1,2,1023,Unfurnished,131000
+Downtown Dubai,0,1,470,Unfurnished,45000
+Downtown Dubai,0,1,551,Furnished,95000
+Jumeirah Beach Residence (JBR),2,2,1168,Unfurnished,152000
+Dubai Silicon Oasis,2,2,1376,Furnished,92000
+International City,2,3,1643,Furnished,97000
+Dubai Marina,1,2,994,Unfurnished,105000
+Dubai Silicon Oasis,0,1,458,Partly Furnished,28000
+Jumeirah Village Circle (JVC),2,2,1175,Furnished,108000
+Discovery Gardens,2,2,1338,Furnished,80000
+International City,1,1,744,Unfurnished,26000
+Jumeirah Beach Residence (JBR),2,3,1388,Unfurnished,158000
+Dubai Sports City,3,4,2349,Furnished,179000
+Dubai Sports City,1,1,905,Unfurnished,49000
+Jumeirah Village Circle (JVC),1,2,1111,Partly Furnished,97000
+Dubai Silicon Oasis,2,2,1118,Furnished,85000
+Jumeirah Village Circle (JVC),1,2,1198,Partly Furnished,83000
+Jumeirah Beach Residence (JBR),3,4,2132,Unfurnished,278000
+Palm Jumeirah,4,4,2570,Unfurnished,397000
+Discovery Gardens,2,2,1292,Unfurnished,69000
+Dubai Sports City,1,1,728,Furnished,59000
+Downtown Dubai,0,1,505,Furnished,83000
+Dubai Marina,3,3,2198,Unfurnished,212000
+Jumeirah Village Circle (JVC),1,1,1149,Unfurnished,70000
+Jumeirah Beach Residence (JBR),1,1,931,Unfurnished,90000
+Palm Jumeirah,0,1,355,Unfurnished,53000
+Dubai Sports City,0,1,398,Unfurnished,26000
+Al Nahda,1,2,920,Partly Furnished,43000
+Dubai Silicon Oasis,1,2,739,Unfurnished,42000
+Downtown Dubai,2,3,1578,Furnished,179000
+Al Nahda,2,2,1447,Furnished,68000
+Jumeirah Beach Residence (JBR),0,1,485,Unfurnished,56000
+Dubai Marina,1,2,1013,Furnished,101000
+Dubai Silicon Oasis,2,2,1682,Furnished,116000
+Palm Jumeirah,1,2,914,Furnished,158000
+Dubai Silicon Oasis,3,3,2169,Furnished,148000
+Discovery Gardens,2,3,1619,Partly Furnished,83000
+Al Nahda,3,4,2415,Furnished,164000
+Al Nahda,2,3,1495,Unfurnished,78000
+International City,1,2,993,Partly Furnished,50000
+Jumeirah Lake Towers (JLT),1,2,872,Furnished,85000
+Dubai Silicon Oasis,2,2,1685,Furnished,150000
+International City,2,3,1439,Furnished,76000
+Dubai Sports City,1,1,762,Unfurnished,51000
+Al Nahda,2,3,1219,Furnished,82000
+Jumeirah Village Circle (JVC),1,2,931,Furnished,79000
+Al Nahda,0,1,613,Unfurnished,28000
+Dubai Silicon Oasis,0,1,625,Furnished,58000
+Palm Jumeirah,2,2,1464,Unfurnished,195000
+Dubai Sports City,1,1,1199,Furnished,107000
+Dubai Silicon Oasis,0,1,640,Unfurnished,34000
+Dubai Silicon Oasis,2,3,1306,Partly Furnished,75000
+Business Bay,1,1,837,Unfurnished,69000
+Jumeirah Beach Residence (JBR),2,3,1173,Unfurnished,138000
+Discovery Gardens,3,3,2321,Unfurnished,131000
+Business Bay,1,1,967,Unfurnished,107000
+Al Nahda,3,4,2414,Furnished,162000
+Dubai Silicon Oasis,3,4,2170,Furnished,156000
+Discovery Gardens,2,2,1281,Unfurnished,60000
+Jumeirah Beach Residence (JBR),2,2,1505,Unfurnished,193000
+Business Bay,1,2,1133,Furnished,150000
+Dubai Silicon Oasis,2,3,1631,Furnished,124000
+Dubai Marina,1,1,1021,Partly Furnished,116000
+Dubai Sports City,2,3,1249,Furnished,78000
+Business Bay,3,4,2327,Unfurnished,249000
+Jumeirah Beach Residence (JBR),1,1,938,Furnished,133000
+Business Bay,3,3,1878,Unfurnished,217000
+Jumeirah Lake Towers (JLT),4,5,3730,Furnished,307000
+Jumeirah Lake Towers (JLT),0,1,468,Unfurnished,44000
+Al Nahda,1,2,710,Furnished,39000
+Dubai Marina,1,2,1057,Furnished,114000
+Palm Jumeirah,1,1,825,Unfurnished,85000
+Palm Jumeirah,1,1,809,Furnished,110000
+Jumeirah Beach Residence (JBR),2,3,1148,Unfurnished,130000
+Jumeirah Village Circle (JVC),1,2,922,Furnished,71000
+Dubai Sports City,1,2,829,Furnished,73000
+Palm Jumeirah,1,2,1185,Furnished,177000
+Dubai Sports City,0,1,494,Unfurnished,37000
+Jumeirah Beach Residence (JBR),2,2,1283,Unfurnished,123000
+Dubai Marina,1,2,1123,Furnished,118000
+Jumeirah Village Circle (JVC),0,1,362,Furnished,34000
+Jumeirah Village Circle (JVC),1,2,1032,Furnished,87000
+Jumeirah Lake Towers (JLT),2,2,1326,Furnished,121000
+Al Nahda,1,2,1017,Furnished,76000
+Dubai Silicon Oasis,1,1,887,Unfurnished,53000
+Jumeirah Village Circle (JVC),2,2,1286,Unfurnished,84000
+Downtown Dubai,1,2,830,Unfurnished,108000
+Jumeirah Beach Residence (JBR),3,4,1946,Partly Furnished,201000
+Jumeirah Village Circle (JVC),2,2,1175,Partly Furnished,105000
+Jumeirah Village Circle (JVC),1,1,826,Unfurnished,53000
+International City,1,2,1087,Unfurnished,54000
+Dubai Sports City,2,2,1436,Unfurnished,87000
+Downtown Dubai,0,1,407,Unfurnished,63000
+International City,2,2,1573,Furnished,76000
+Jumeirah Village Circle (JVC),2,2,1371,Furnished,128000
+Dubai Silicon Oasis,2,2,1597,Unfurnished,101000
+Downtown Dubai,0,1,498,Unfurnished,60000
+Jumeirah Lake Towers (JLT),2,3,1463,Partly Furnished,99000
+Business Bay,2,3,1466,Unfurnished,115000
+Jumeirah Village Circle (JVC),1,1,839,Furnished,61000
+Jumeirah Village Circle (JVC),1,2,967,Unfurnished,72000
+Al Nahda,2,2,1372,Unfurnished,73000
+Dubai Sports City,2,3,1489,Unfurnished,92000
+Dubai Sports City,1,2,932,Unfurnished,55000
+Al Nahda,1,2,762,Unfurnished,40000
+International City,2,3,1127,Furnished,74000
+Jumeirah Beach Residence (JBR),2,3,1276,Unfurnished,153000
+Dubai Silicon Oasis,2,2,1327,Furnished,115000
+Jumeirah Beach Residence (JBR),1,2,883,Unfurnished,87000
+Business Bay,2,2,1559,Unfurnished,157000
+Jumeirah Village Circle (JVC),0,1,486,Unfurnished,34000
+Dubai Silicon Oasis,1,1,724,Furnished,43000
+Downtown Dubai,0,1,422,Furnished,71000
+Jumeirah Village Circle (JVC),3,3,1894,Furnished,118000
+Jumeirah Lake Towers (JLT),1,1,743,Unfurnished,63000
+Discovery Gardens,3,3,1831,Unfurnished,99000
+Discovery Gardens,1,2,1086,Unfurnished,59000
+Jumeirah Village Circle (JVC),0,1,643,Furnished,59000
+Dubai Sports City,2,2,1169,Furnished,91000
+Palm Jumeirah,2,3,1291,Furnished,202000
+Dubai Silicon Oasis,0,1,552,Furnished,35000
+Palm Jumeirah,1,2,1142,Furnished,156000
+International City,2,2,1459,Unfurnished,64000
+Al Nahda,0,1,439,Furnished,30000
+Downtown Dubai,1,2,1077,Furnished,139000
+Jumeirah Village Circle (JVC),1,2,946,Unfurnished,52000
+International City,1,1,810,Partly Furnished,33000
+International City,3,3,1908,Unfurnished,97000
+Discovery Gardens,1,1,716,Partly Furnished,38000
+Downtown Dubai,1,1,961,Partly Furnished,103000
+Dubai Marina,2,2,1368,Unfurnished,144000
+Discovery Gardens,0,1,407,Furnished,25000
+Jumeirah Village Circle (JVC),1,2,1089,Unfurnished,85000
+Palm Jumeirah,2,3,1561,Unfurnished,188000
+Dubai Silicon Oasis,2,2,1518,Unfurnished,87000
+Palm Jumeirah,1,2,743,Furnished,128000
+Downtown Dubai,1,1,1054,Unfurnished,126000
+Business Bay,2,3,1562,Unfurnished,124000
+Jumeirah Village Circle (JVC),2,3,1487,Unfurnished,94000
+Jumeirah Lake Towers (JLT),2,3,1235,Partly Furnished,134000
+Jumeirah Beach Residence (JBR),1,2,770,Furnished,130000
+Dubai Silicon Oasis,2,2,1557,Unfurnished,81000
+Jumeirah Lake Towers (JLT),1,2,870,Furnished,86000
+Jumeirah Lake Towers (JLT),3,3,2193,Unfurnished,200000
+Jumeirah Village Circle (JVC),1,1,1123,Partly Furnished,82000
+Business Bay,1,2,1078,Partly Furnished,136000
+Jumeirah Village Circle (JVC),2,2,1551,Unfurnished,99000
+Business Bay,2,2,1633,Unfurnished,155000
+Dubai Marina,1,2,702,Furnished,80000
+Dubai Silicon Oasis,1,1,932,Unfurnished,50000
+Downtown Dubai,1,2,955,Furnished,147000
+Dubai Sports City,2,2,1124,Furnished,101000
+Al Nahda,1,1,1124,Unfurnished,46000
+Downtown Dubai,0,1,360,Furnished,61000
+Jumeirah Lake Towers (JLT),1,2,763,Unfurnished,56000
+Jumeirah Beach Residence (JBR),1,2,940,Unfurnished,126000
+Discovery Gardens,3,3,2063,Unfurnished,101000
+Dubai Marina,1,2,1186,Unfurnished,103000
+Discovery Gardens,2,3,1362,Unfurnished,67000
+Downtown Dubai,0,1,490,Furnished,78000
+Downtown Dubai,1,1,707,Furnished,88000
+Jumeirah Beach Residence (JBR),1,2,800,Unfurnished,84000
+Jumeirah Beach Residence (JBR),0,1,473,Furnished,72000
+Downtown Dubai,2,3,1560,Partly Furnished,243000
+International City,1,2,980,Unfurnished,37000
+Palm Jumeirah,2,2,1129,Unfurnished,154000
+Jumeirah Beach Residence (JBR),2,2,1633,Unfurnished,157000
+Palm Jumeirah,0,1,387,Unfurnished,59000
+Dubai Silicon Oasis,2,3,1149,Unfurnished,62000
+Discovery Gardens,1,2,1023,Unfurnished,49000
+Dubai Marina,1,1,767,Furnished,116000
+International City,2,2,1514,Unfurnished,63000
+Jumeirah Beach Residence (JBR),1,2,893,Unfurnished,110000
+Dubai Silicon Oasis,1,1,1114,Furnished,95000
+Dubai Sports City,2,3,1405,Unfurnished,88000
+Business Bay,1,1,1175,Furnished,163000
+Jumeirah Lake Towers (JLT),1,1,1109,Unfurnished,84000
+Palm Jumeirah,0,1,544,Furnished,97000
+International City,2,3,1129,Unfurnished,36000
+International City,1,2,995,Unfurnished,45000
+Dubai Sports City,1,2,907,Unfurnished,51000
+Dubai Sports City,0,1,511,Unfurnished,33000
+Dubai Marina,0,1,550,Furnished,87000
+Palm Jumeirah,1,2,1020,Furnished,187000
+Business Bay,2,2,1177,Unfurnished,131000
+Dubai Marina,1,1,979,Unfurnished,112000
+International City,0,1,511,Furnished,24000
+Downtown Dubai,2,3,1121,Partly Furnished,172000
+Business Bay,2,2,1263,Furnished,151000
+International City,2,3,1551,Unfurnished,54000
+Discovery Gardens,0,1,436,Partly Furnished,22000
+Jumeirah Village Circle (JVC),0,1,518,Unfurnished,34000
+Jumeirah Village Circle (JVC),3,3,2315,Unfurnished,155000
+Dubai Sports City,0,1,622,Partly Furnished,34000
+Jumeirah Beach Residence (JBR),2,2,1350,Furnished,222000
+Dubai Marina,2,2,1607,Unfurnished,161000
+International City,0,1,445,Unfurnished,22000
+Dubai Sports City,1,2,715,Furnished,63000
+Discovery Gardens,1,1,828,Unfurnished,48000
+Jumeirah Beach Residence (JBR),1,1,860,Furnished,105000
+Dubai Marina,2,2,1375,Furnished,207000
+Dubai Sports City,2,2,1270,Unfurnished,63000
+Business Bay,1,1,1064,Furnished,105000
+Discovery Gardens,4,5,3126,Unfurnished,171000
+International City,0,1,560,Furnished,34000
+Dubai Marina,0,1,616,Furnished,83000
+International City,1,2,1089,Unfurnished,42000
+Downtown Dubai,3,4,2027,Partly Furnished,284000
+Jumeirah Lake Towers (JLT),2,2,1423,Unfurnished,128000
+Al Nahda,1,1,1120,Unfurnished,46000
+Jumeirah Village Circle (JVC),2,3,1665,Unfurnished,118000
+Discovery Gardens,2,3,1622,Unfurnished,92000
+Jumeirah Lake Towers (JLT),1,1,1066,Unfurnished,98000
+Dubai Marina,0,1,619,Unfurnished,76000
+Al Nahda,1,2,1199,Unfurnished,53000
+Discovery Gardens,1,2,746,Furnished,47000
+Jumeirah Lake Towers (JLT),1,1,1189,Furnished,98000
+Downtown Dubai,1,1,1090,Partly Furnished,130000
+Jumeirah Village Circle (JVC),1,2,1136,Furnished,80000
+Dubai Silicon Oasis,2,3,1612,Unfurnished,84000
+Dubai Marina,0,1,641,Partly Furnished,62000
+Jumeirah Village Circle (JVC),3,4,1855,Unfurnished,100000
+Jumeirah Lake Towers (JLT),1,2,1120,Unfurnished,114000
+Discovery Gardens,2,3,1641,Unfurnished,88000
+Dubai Silicon Oasis,2,3,1189,Unfurnished,78000
+Dubai Sports City,3,3,1789,Unfurnished,113000
+Palm Jumeirah,1,1,1101,Partly Furnished,199000
+Jumeirah Village Circle (JVC),1,1,711,Furnished,53000
+Palm Jumeirah,0,1,596,Unfurnished,80000
+Dubai Sports City,2,2,1271,Unfurnished,91000
+Al Nahda,1,1,885,Unfurnished,38000
+Discovery Gardens,2,3,1295,Unfurnished,77000
+Business Bay,2,3,1525,Furnished,190000
+International City,4,5,4202,Furnished,197000
+Al Nahda,2,2,1515,Furnished,98000
+Dubai Silicon Oasis,2,2,1222,Unfurnished,60000
+Dubai Silicon Oasis,1,2,1095,Unfurnished,66000
+Jumeirah Village Circle (JVC),1,1,821,Unfurnished,51000
+Dubai Sports City,0,1,365,Partly Furnished,30000
+International City,4,4,2826,Unfurnished,89000
+Business Bay,1,1,1127,Unfurnished,138000
+Jumeirah Lake Towers (JLT),1,1,1005,Unfurnished,65000
+Jumeirah Beach Residence (JBR),1,1,1119,Unfurnished,156000
+Dubai Marina,3,4,1889,Unfurnished,186000
+Business Bay,0,1,441,Furnished,52000
+Dubai Silicon Oasis,1,2,919,Unfurnished,44000
+Jumeirah Beach Residence (JBR),4,5,4041,Furnished,515000
+Dubai Silicon Oasis,1,1,847,Unfurnished,59000
+International City,1,2,874,Furnished,36000
+International City,1,1,846,Furnished,42000
+Discovery Gardens,2,3,1332,Furnished,98000
+Jumeirah Village Circle (JVC),0,1,624,Unfurnished,45000
+Jumeirah Lake Towers (JLT),2,2,1639,Furnished,177000
+Downtown Dubai,2,3,1226,Unfurnished,147000
+Dubai Silicon Oasis,1,2,849,Unfurnished,53000
+Jumeirah Lake Towers (JLT),0,1,585,Furnished,61000
+Palm Jumeirah,0,1,414,Unfurnished,54000
+Dubai Silicon Oasis,2,3,1257,Furnished,84000
+Jumeirah Beach Residence (JBR),2,2,1565,Unfurnished,189000
+Jumeirah Lake Towers (JLT),1,2,1039,Furnished,105000
+Business Bay,1,1,789,Partly Furnished,71000
+Jumeirah Lake Towers (JLT),1,2,816,Unfurnished,68000
+Business Bay,1,1,833,Furnished,84000
+International City,1,2,867,Unfurnished,34000
+Dubai Sports City,0,1,590,Unfurnished,30000
+Business Bay,2,2,1528,Unfurnished,129000
+Al Nahda,1,1,1102,Furnished,67000
+Downtown Dubai,1,2,1102,Unfurnished,122000
+Al Nahda,1,1,1080,Partly Furnished,55000
+Jumeirah Beach Residence (JBR),2,2,1650,Furnished,268000
+Dubai Marina,2,3,1480,Furnished,161000
+Jumeirah Beach Residence (JBR),2,2,1253,Furnished,133000
+Dubai Sports City,3,3,1960,Partly Furnished,152000
+Jumeirah Village Circle (JVC),3,4,2320,Furnished,193000
+Dubai Silicon Oasis,0,1,605,Furnished,39000
+Al Nahda,0,1,513,Partly Furnished,28000
+Jumeirah Beach Residence (JBR),2,3,1298,Unfurnished,133000
+Dubai Sports City,4,4,4376,Furnished,339000
+Dubai Silicon Oasis,2,2,1533,Unfurnished,71000
+Discovery Gardens,4,5,3370,Furnished,235000
+Dubai Sports City,0,1,424,Furnished,35000
+Dubai Silicon Oasis,1,1,1081,Unfurnished,78000
+Dubai Silicon Oasis,1,1,1191,Furnished,95000
+Downtown Dubai,4,4,4065,Unfurnished,401000
+Dubai Marina,0,1,421,Unfurnished,46000
+Business Bay,1,1,1160,Furnished,150000
+Jumeirah Beach Residence (JBR),3,4,1914,Furnished,228000
+Jumeirah Village Circle (JVC),2,2,1637,Unfurnished,93000
+Dubai Sports City,1,1,777,Unfurnished,43000
+Jumeirah Beach Residence (JBR),1,1,1027,Furnished,140000
+Business Bay,2,2,1290,Unfurnished,136000
+Discovery Gardens,2,2,1618,Furnished,112000
+International City,1,1,822,Furnished,41000
+Jumeirah Lake Towers (JLT),2,2,1482,Unfurnished,150000
+Dubai Silicon Oasis,3,3,2145,Unfurnished,132000
+Al Nahda,3,3,2484,Unfurnished,106000
+Al Nahda,1,2,1034,Unfurnished,51000
+Jumeirah Lake Towers (JLT),1,1,1086,Furnished,119000
+Jumeirah Village Circle (JVC),4,4,4451,Furnished,413000
+Dubai Sports City,0,1,428,Unfurnished,26000
+Al Nahda,1,1,1114,Unfurnished,48000
+Jumeirah Lake Towers (JLT),1,2,908,Unfurnished,86000
+Jumeirah Lake Towers (JLT),1,1,944,Furnished,121000
+Dubai Sports City,2,2,1372,Unfurnished,78000
+Dubai Silicon Oasis,2,3,1489,Unfurnished,97000
+Business Bay,0,1,454,Partly Furnished,52000
+Business Bay,0,1,449,Partly Furnished,47000
+Business Bay,2,2,1629,Furnished,185000
+Jumeirah Beach Residence (JBR),1,1,781,Unfurnished,101000
+Dubai Marina,1,1,927,Furnished,97000
+Dubai Sports City,2,3,1155,Furnished,76000
+Jumeirah Beach Residence (JBR),2,2,1394,Furnished,238000
+Jumeirah Lake Towers (JLT),2,3,1170,Unfurnished,121000
+Dubai Marina,1,1,767,Furnished,106000
+Dubai Sports City,2,3,1620,Unfurnished,94000
+Al Nahda,2,3,1631,Furnished,76000
+Dubai Sports City,1,2,1083,Unfurnished,61000
+Palm Jumeirah,1,1,761,Unfurnished,128000
+Jumeirah Beach Residence (JBR),1,1,741,Unfurnished,90000
+Jumeirah Beach Residence (JBR),1,1,993,Unfurnished,102000
+Dubai Sports City,0,1,405,Unfurnished,22000
+Dubai Silicon Oasis,2,2,1576,Unfurnished,82000
+Business Bay,2,3,1591,Unfurnished,145000
+Dubai Sports City,0,1,449,Furnished,44000
+International City,3,4,2392,Unfurnished,88000
+Al Nahda,1,2,715,Unfurnished,35000
+International City,1,1,839,Furnished,49000
+Business Bay,1,1,757,Unfurnished,69000
+Dubai Marina,0,1,393,Furnished,59000
+Jumeirah Beach Residence (JBR),3,3,1884,Furnished,283000
+Business Bay,1,2,818,Unfurnished,83000
+Jumeirah Beach Residence (JBR),2,2,1645,Unfurnished,197000
+Jumeirah Lake Towers (JLT),2,2,1693,Furnished,199000
+Palm Jumeirah,2,3,1202,Furnished,238000
+Business Bay,2,3,1308,Unfurnished,156000
+Downtown Dubai,2,3,1155,Partly Furnished,162000
+Dubai Sports City,2,3,1593,Unfurnished,98000
+Al Nahda,1,1,970,Unfurnished,42000
+Palm Jumeirah,2,2,1173,Furnished,171000
+Business Bay,1,2,1123,Unfurnished,105000
+Downtown Dubai,2,3,1417,Furnished,184000
+Downtown Dubai,2,3,1267,Furnished,168000
+Al Nahda,1,2,1064,Furnished,68000
+Business Bay,2,2,1172,Furnished,109000
+Dubai Sports City,1,2,1075,Partly Furnished,60000
+Palm Jumeirah,1,2,1184,Furnished,166000
+Discovery Gardens,2,3,1191,Furnished,83000
+Dubai Silicon Oasis,3,3,1972,Unfurnished,111000
+Dubai Marina,2,2,1666,Furnished,276000
+Downtown Dubai,2,3,1401,Partly Furnished,158000
+International City,1,1,965,Unfurnished,39000
+Business Bay,1,2,1099,Unfurnished,108000
+Dubai Silicon Oasis,0,1,548,Unfurnished,26000
+Dubai Silicon Oasis,0,1,417,Furnished,36000
+Dubai Silicon Oasis,1,2,917,Partly Furnished,62000
+Jumeirah Lake Towers (JLT),1,2,848,Unfurnished,51000
+Palm Jumeirah,4,4,3728,Furnished,722000
+Downtown Dubai,1,1,745,Furnished,129000
+Business Bay,4,5,3862,Unfurnished,364000
+Dubai Silicon Oasis,3,4,1717,Unfurnished,118000
+Dubai Marina,1,1,1179,Furnished,156000
+Dubai Marina,0,1,484,Furnished,55000
+Jumeirah Village Circle (JVC),1,1,880,Partly Furnished,65000
+Dubai Silicon Oasis,1,1,1027,Unfurnished,68000
+Dubai Marina,2,2,1625,Unfurnished,173000
+International City,0,1,383,Unfurnished,16000
+Discovery Gardens,1,1,956,Partly Furnished,54000
+Discovery Gardens,1,2,820,Furnished,64000
+Downtown Dubai,2,3,1491,Unfurnished,161000
+Palm Jumeirah,1,2,707,Unfurnished,85000
+Palm Jumeirah,2,3,1107,Furnished,178000
+International City,3,4,2553,Partly Furnished,118000
+Business Bay,3,3,1828,Furnished,271000
+Dubai Marina,1,2,1074,Unfurnished,95000
+Jumeirah Beach Residence (JBR),0,1,400,Unfurnished,54000
+Dubai Marina,2,3,1138,Unfurnished,106000
+Al Nahda,0,1,647,Unfurnished,33000
+Jumeirah Village Circle (JVC),0,1,631,Unfurnished,47000
+International City,1,1,1176,Furnished,67000
+International City,1,1,1116,Unfurnished,52000
+International City,1,2,809,Unfurnished,38000
+Jumeirah Beach Residence (JBR),1,1,1135,Furnished,186000
+Al Nahda,1,1,995,Partly Furnished,63000
+Jumeirah Village Circle (JVC),1,2,978,Unfurnished,53000
+Dubai Silicon Oasis,1,1,1091,Unfurnished,62000
+Dubai Silicon Oasis,0,1,634,Unfurnished,35000
+Business Bay,2,3,1207,Furnished,143000
+International City,0,1,631,Furnished,28000
+Jumeirah Village Circle (JVC),2,2,1643,Unfurnished,106000
+Business Bay,2,2,1465,Unfurnished,136000
+International City,2,3,1454,Unfurnished,55000
+International City,1,1,807,Furnished,33000
+Downtown Dubai,1,1,1196,Furnished,147000
+International City,1,1,954,Unfurnished,37000
+Dubai Sports City,0,1,439,Furnished,37000
+Dubai Marina,1,2,943,Unfurnished,104000
+Jumeirah Beach Residence (JBR),3,3,2314,Furnished,339000
+Discovery Gardens,3,4,1880,Unfurnished,112000
+Jumeirah Beach Residence (JBR),3,4,2382,Furnished,335000
+Business Bay,1,1,709,Unfurnished,85000
+Discovery Gardens,2,2,1314,Unfurnished,76000
+Dubai Marina,3,4,2209,Unfurnished,227000
+Palm Jumeirah,1,1,954,Unfurnished,134000
+Jumeirah Beach Residence (JBR),0,1,418,Unfurnished,46000
+Palm Jumeirah,0,1,600,Unfurnished,90000
+Al Nahda,1,1,1145,Furnished,70000
+Dubai Marina,1,1,914,Unfurnished,107000
+Palm Jumeirah,0,1,517,Unfurnished,75000
+Downtown Dubai,1,2,779,Partly Furnished,111000
+Jumeirah Village Circle (JVC),3,4,2119,Furnished,206000
+Dubai Silicon Oasis,4,5,3316,Unfurnished,169000
+Dubai Sports City,3,4,2554,Unfurnished,143000
+International City,1,1,1162,Partly Furnished,62000
+Dubai Silicon Oasis,2,3,1161,Partly Furnished,91000
+Business Bay,1,1,1127,Unfurnished,111000
+Downtown Dubai,0,1,391,Unfurnished,38000
+Jumeirah Beach Residence (JBR),1,1,1143,Furnished,150000
+Business Bay,4,5,2584,Furnished,238000
+Dubai Sports City,0,1,411,Unfurnished,27000
+Business Bay,0,1,510,Unfurnished,53000
+Dubai Sports City,2,3,1477,Unfurnished,102000
+Dubai Silicon Oasis,2,2,1632,Furnished,109000
+Dubai Marina,0,1,531,Furnished,63000
+Discovery Gardens,1,1,792,Furnished,57000
+Jumeirah Beach Residence (JBR),2,2,1651,Unfurnished,182000
+Business Bay,1,2,871,Unfurnished,86000
+Discovery Gardens,3,3,2072,Partly Furnished,126000
+International City,2,2,1603,Unfurnished,62000
+Discovery Gardens,1,1,982,Unfurnished,52000
+Jumeirah Beach Residence (JBR),2,2,1565,Unfurnished,180000
+Jumeirah Village Circle (JVC),1,1,1087,Furnished,105000
+Dubai Marina,2,2,1295,Partly Furnished,162000
+Al Nahda,4,5,3733,Unfurnished,188000
+Jumeirah Beach Residence (JBR),1,1,987,Unfurnished,123000
+Discovery Gardens,2,3,1310,Unfurnished,70000
+Palm Jumeirah,2,3,1146,Unfurnished,127000
+Business Bay,1,2,1129,Unfurnished,123000
+Palm Jumeirah,3,4,2127,Unfurnished,347000
+Dubai Marina,1,2,737,Unfurnished,83000
+Downtown Dubai,0,1,528,Furnished,69000
+Palm Jumeirah,3,4,2108,Furnished,287000
+Business Bay,1,2,1103,Unfurnished,96000
+International City,0,1,484,Unfurnished,19000
+Dubai Sports City,1,2,1079,Furnished,82000
+International City,2,3,1116,Unfurnished,52000
+Business Bay,2,2,1218,Unfurnished,130000
+Dubai Silicon Oasis,1,2,743,Furnished,62000
+Dubai Marina,1,1,913,Furnished,93000
+Dubai Silicon Oasis,1,1,706,Unfurnished,45000
+Dubai Sports City,2,3,1424,Furnished,91000
+Business Bay,0,1,353,Furnished,41000
+Dubai Sports City,1,2,1009,Unfurnished,58000
+Jumeirah Village Circle (JVC),0,1,490,Unfurnished,34000
+Business Bay,0,1,607,Unfurnished,55000
+Al Nahda,2,3,1633,Unfurnished,86000
+Al Nahda,1,2,768,Furnished,53000
+Dubai Silicon Oasis,2,3,1624,Furnished,110000
+Dubai Silicon Oasis,2,2,1646,Unfurnished,94000
+Dubai Marina,3,4,2573,Furnished,299000
+International City,1,1,765,Furnished,35000
+Downtown Dubai,0,1,548,Unfurnished,60000
+Jumeirah Village Circle (JVC),1,2,769,Unfurnished,62000
+Dubai Sports City,1,1,1048,Unfurnished,70000
+Jumeirah Lake Towers (JLT),2,2,1265,Unfurnished,120000
+International City,1,1,869,Unfurnished,41000
+Business Bay,0,1,512,Unfurnished,52000
+Downtown Dubai,1,1,1074,Unfurnished,115000
+Dubai Marina,2,3,1413,Furnished,163000
+Jumeirah Beach Residence (JBR),3,3,2249,Unfurnished,312000
+Discovery Gardens,1,2,1050,Partly Furnished,76000
+International City,1,1,959,Unfurnished,45000
+International City,2,3,1541,Unfurnished,55000
+Downtown Dubai,1,2,790,Unfurnished,109000
+Discovery Gardens,1,1,858,Unfurnished,52000
+Business Bay,2,2,1150,Unfurnished,94000
+International City,2,2,1357,Unfurnished,68000
+Downtown Dubai,1,2,784,Unfurnished,109000
+Palm Jumeirah,1,2,917,Furnished,172000
+Dubai Silicon Oasis,1,2,960,Unfurnished,56000
+Al Nahda,2,3,1146,Furnished,68000
+Discovery Gardens,0,1,504,Furnished,29000
+Dubai Silicon Oasis,2,2,1555,Unfurnished,89000
+Business Bay,0,1,597,Unfurnished,65000
+Palm Jumeirah,1,2,964,Unfurnished,146000
+International City,1,2,1064,Unfurnished,37000
+Jumeirah Village Circle (JVC),2,3,1511,Unfurnished,99000
+Discovery Gardens,1,1,790,Unfurnished,35000
+Dubai Silicon Oasis,2,3,1320,Furnished,85000
+Dubai Marina,0,1,374,Furnished,47000
+Dubai Silicon Oasis,1,1,881,Unfurnished,53000
+Jumeirah Lake Towers (JLT),2,3,1605,Furnished,192000
+Jumeirah Village Circle (JVC),1,2,1067,Unfurnished,57000
+Jumeirah Lake Towers (JLT),0,1,586,Partly Furnished,48000
+Jumeirah Lake Towers (JLT),1,2,1147,Unfurnished,104000
+Discovery Gardens,0,1,384,Furnished,21000
+Dubai Marina,2,2,1306,Unfurnished,150000
+Palm Jumeirah,2,2,1679,Unfurnished,239000
+Jumeirah Lake Towers (JLT),1,1,996,Unfurnished,80000
+Jumeirah Village Circle (JVC),3,3,1748,Furnished,128000
+Dubai Sports City,3,3,2343,Partly Furnished,165000
+Dubai Silicon Oasis,1,2,755,Unfurnished,49000
+Business Bay,2,3,1694,Furnished,164000
+Discovery Gardens,2,3,1456,Unfurnished,72000
+Jumeirah Village Circle (JVC),2,3,1563,Furnished,139000
+Al Nahda,2,2,1658,Unfurnished,65000
+Downtown Dubai,3,3,1942,Furnished,325000
+Dubai Silicon Oasis,2,3,1158,Furnished,72000
+Dubai Marina,3,4,2454,Unfurnished,313000
+Jumeirah Lake Towers (JLT),1,1,1090,Unfurnished,76000
+Business Bay,0,1,381,Furnished,43000
+Jumeirah Lake Towers (JLT),2,2,1199,Furnished,101000
+Dubai Marina,1,1,842,Unfurnished,102000
+Jumeirah Village Circle (JVC),1,2,1140,Unfurnished,97000
+Al Nahda,4,5,2561,Unfurnished,104000
+Downtown Dubai,3,4,2269,Unfurnished,280000
+Discovery Gardens,1,1,791,Unfurnished,36000
+Al Nahda,2,2,1656,Furnished,84000
+Dubai Silicon Oasis,0,1,553,Furnished,35000
+Jumeirah Village Circle (JVC),0,1,411,Unfurnished,29000
+Downtown Dubai,3,3,2010,Unfurnished,181000
+Jumeirah Beach Residence (JBR),2,2,1146,Furnished,172000
+Al Nahda,1,2,1029,Furnished,53000
+Jumeirah Lake Towers (JLT),2,2,1553,Partly Furnished,118000
+International City,2,3,1664,Unfurnished,71000
+Dubai Silicon Oasis,2,3,1549,Unfurnished,101000
+Discovery Gardens,2,3,1657,Furnished,98000
+Dubai Silicon Oasis,1,1,1079,Furnished,102000
+Downtown Dubai,1,2,980,Furnished,125000
+Jumeirah Beach Residence (JBR),2,2,1651,Furnished,227000
+Business Bay,1,1,866,Furnished,97000
+Al Nahda,1,2,978,Unfurnished,40000
+Palm Jumeirah,1,1,1152,Partly Furnished,186000
+Business Bay,0,1,456,Unfurnished,42000
+Dubai Silicon Oasis,2,3,1650,Partly Furnished,98000
+Dubai Sports City,1,2,745,Furnished,48000
+Dubai Silicon Oasis,2,3,1545,Unfurnished,105000
+Dubai Marina,4,4,4175,Furnished,516000
+Downtown Dubai,1,2,788,Furnished,122000
+Discovery Gardens,1,1,751,Unfurnished,48000
+International City,1,2,830,Unfurnished,42000
+Jumeirah Beach Residence (JBR),1,1,1102,Unfurnished,138000
+Dubai Sports City,2,2,1220,Furnished,112000
+Palm Jumeirah,2,3,1623,Unfurnished,194000
+Business Bay,4,4,3929,Furnished,485000
+Al Nahda,1,2,842,Unfurnished,33000
+Downtown Dubai,3,4,2371,Unfurnished,240000
+Al Nahda,2,2,1331,Unfurnished,59000
+Jumeirah Village Circle (JVC),2,2,1536,Furnished,117000
+Dubai Marina,2,2,1504,Furnished,170000
+Jumeirah Beach Residence (JBR),0,1,377,Furnished,57000
+Dubai Marina,3,4,1930,Furnished,237000
+Dubai Silicon Oasis,3,3,1784,Furnished,102000
+Dubai Marina,1,1,1122,Furnished,130000
+Discovery Gardens,0,1,479,Furnished,23000
+Palm Jumeirah,2,3,1488,Furnished,304000
+Dubai Silicon Oasis,2,3,1636,Partly Furnished,119000
+Dubai Sports City,0,1,574,Partly Furnished,43000
+Business Bay,2,2,1470,Furnished,201000
+Al Nahda,1,1,874,Unfurnished,49000
+Dubai Sports City,1,2,945,Furnished,79000
+Business Bay,2,3,1431,Unfurnished,122000
+Jumeirah Village Circle (JVC),3,4,2427,Unfurnished,148000
+Dubai Silicon Oasis,0,1,527,Furnished,39000
+Dubai Silicon Oasis,1,1,1024,Unfurnished,72000
+Jumeirah Beach Residence (JBR),0,1,612,Unfurnished,54000
+Dubai Silicon Oasis,1,2,1165,Unfurnished,81000
+Al Nahda,0,1,626,Furnished,42000
+Palm Jumeirah,1,2,857,Furnished,143000
+Jumeirah Village Circle (JVC),1,2,988,Furnished,77000
+Jumeirah Beach Residence (JBR),1,1,718,Unfurnished,90000
+International City,1,2,1029,Unfurnished,48000
+Al Nahda,1,1,921,Unfurnished,35000
+Dubai Sports City,1,2,711,Unfurnished,47000
+Palm Jumeirah,1,2,996,Unfurnished,128000
+Dubai Marina,0,1,608,Unfurnished,61000
+Business Bay,3,3,1925,Partly Furnished,216000
+Jumeirah Village Circle (JVC),2,2,1642,Unfurnished,119000
+Jumeirah Lake Towers (JLT),1,2,1119,Unfurnished,88000
+Al Nahda,4,4,3710,Furnished,220000
+Business Bay,2,3,1326,Furnished,151000
+Downtown Dubai,0,1,402,Unfurnished,49000
+Business Bay,3,3,1799,Furnished,189000
+Dubai Sports City,2,2,1562,Furnished,105000
+Business Bay,2,3,1487,Furnished,164000
+International City,1,2,893,Unfurnished,45000
+International City,1,2,1097,Unfurnished,52000
+Discovery Gardens,2,3,1177,Partly Furnished,69000
+Dubai Silicon Oasis,2,2,1310,Furnished,106000
+Palm Jumeirah,0,1,500,Unfurnished,61000
+Dubai Silicon Oasis,1,1,1118,Unfurnished,52000
+Al Nahda,2,3,1654,Unfurnished,84000
+Dubai Silicon Oasis,3,4,1936,Unfurnished,127000
+Jumeirah Lake Towers (JLT),1,2,855,Unfurnished,57000
+Jumeirah Lake Towers (JLT),1,2,961,Unfurnished,61000
+Al Nahda,1,2,746,Unfurnished,36000
+Al Nahda,3,4,2012,Furnished,115000
+Jumeirah Village Circle (JVC),3,3,2169,Unfurnished,176000
+Dubai Silicon Oasis,1,2,1165,Furnished,101000
+Jumeirah Lake Towers (JLT),2,3,1574,Furnished,130000
+Jumeirah Beach Residence (JBR),1,1,874,Unfurnished,106000
+Dubai Sports City,1,1,889,Unfurnished,43000
+Jumeirah Beach Residence (JBR),4,5,3887,Unfurnished,488000
+International City,2,2,1466,Unfurnished,71000
+Jumeirah Village Circle (JVC),2,2,1570,Furnished,142000
+Jumeirah Beach Residence (JBR),1,2,708,Furnished,97000
+Jumeirah Village Circle (JVC),2,3,1689,Unfurnished,105000
+Downtown Dubai,1,2,773,Unfurnished,97000
+Jumeirah Lake Towers (JLT),2,2,1493,Unfurnished,116000
+Dubai Sports City,1,2,957,Unfurnished,68000
+Dubai Silicon Oasis,3,3,1921,Furnished,152000
+Dubai Sports City,2,3,1282,Furnished,109000
+Jumeirah Village Circle (JVC),2,2,1203,Furnished,93000
+Jumeirah Village Circle (JVC),1,2,739,Unfurnished,42000
+Discovery Gardens,0,1,486,Unfurnished,27000
+Discovery Gardens,1,2,941,Furnished,53000
+Palm Jumeirah,2,3,1377,Furnished,226000
+Dubai Silicon Oasis,2,3,1235,Unfurnished,69000
+Downtown Dubai,1,2,1082,Unfurnished,136000
+Palm Jumeirah,1,1,988,Furnished,184000
+Al Nahda,2,3,1214,Partly Furnished,64000
+International City,0,1,359,Furnished,18000
+Jumeirah Lake Towers (JLT),3,3,1876,Furnished,176000
+Dubai Marina,1,2,1186,Unfurnished,127000
+Dubai Silicon Oasis,3,4,2502,Furnished,212000
+Dubai Marina,1,2,834,Unfurnished,106000
+Al Nahda,2,2,1202,Partly Furnished,53000
+Dubai Silicon Oasis,3,4,1789,Partly Furnished,126000
+Downtown Dubai,2,3,1444,Unfurnished,154000
+Dubai Sports City,1,2,1143,Unfurnished,63000
+Palm Jumeirah,2,3,1456,Unfurnished,250000
+Jumeirah Village Circle (JVC),1,1,784,Partly Furnished,63000
+Discovery Gardens,0,1,490,Partly Furnished,22000
+Palm Jumeirah,1,2,1179,Partly Furnished,184000
+Dubai Marina,2,3,1491,Unfurnished,179000
+Dubai Silicon Oasis,4,5,3761,Unfurnished,208000
+Business Bay,3,3,2275,Furnished,263000
+Jumeirah Lake Towers (JLT),0,1,368,Partly Furnished,27000
+International City,1,2,789,Unfurnished,27000
+Dubai Sports City,0,1,525,Unfurnished,41000
+Jumeirah Village Circle (JVC),1,2,935,Unfurnished,49000
+Discovery Gardens,1,2,1152,Furnished,80000
+Dubai Marina,2,3,1514,Furnished,230000
+Jumeirah Lake Towers (JLT),2,2,1232,Unfurnished,129000
+Discovery Gardens,2,3,1291,Unfurnished,68000
+Al Nahda,0,1,511,Furnished,28000
+Jumeirah Village Circle (JVC),2,3,1341,Furnished,106000
+Jumeirah Lake Towers (JLT),3,3,1817,Furnished,164000
+Discovery Gardens,1,2,827,Furnished,61000
+Dubai Sports City,2,3,1144,Partly Furnished,72000
+Dubai Silicon Oasis,2,2,1366,Furnished,127000
+Al Nahda,3,3,2356,Unfurnished,107000
+Downtown Dubai,2,3,1280,Furnished,145000
+International City,1,2,879,Unfurnished,37000
+Dubai Marina,2,3,1228,Unfurnished,136000
+Jumeirah Beach Residence (JBR),1,1,826,Partly Furnished,124000
+Discovery Gardens,4,5,2510,Unfurnished,134000
+Discovery Gardens,2,2,1634,Unfurnished,94000
+Business Bay,3,4,2154,Unfurnished,246000
+Jumeirah Beach Residence (JBR),2,2,1626,Partly Furnished,226000
+Dubai Sports City,1,1,715,Furnished,69000
+Dubai Marina,2,2,1176,Furnished,127000
+Jumeirah Village Circle (JVC),1,2,770,Furnished,75000
+Dubai Marina,0,1,543,Furnished,66000
+Discovery Gardens,4,5,3297,Unfurnished,146000
+Dubai Sports City,1,2,709,Unfurnished,42000
+Dubai Marina,2,3,1565,Unfurnished,152000
+Dubai Silicon Oasis,0,1,494,Unfurnished,26000
+Palm Jumeirah,1,2,705,Furnished,119000
+Dubai Sports City,1,1,866,Unfurnished,49000
+Business Bay,0,1,493,Furnished,48000
+Downtown Dubai,3,3,2172,Furnished,408000
+Downtown Dubai,1,2,745,Unfurnished,93000
+Jumeirah Lake Towers (JLT),1,1,1083,Unfurnished,99000
+Downtown Dubai,1,1,747,Furnished,96000
+Business Bay,3,4,1876,Partly Furnished,223000
+Jumeirah Lake Towers (JLT),1,2,901,Unfurnished,91000
+Jumeirah Lake Towers (JLT),2,2,1122,Unfurnished,88000
+Jumeirah Village Circle (JVC),2,3,1121,Furnished,96000
+Palm Jumeirah,1,2,875,Partly Furnished,146000
+Jumeirah Beach Residence (JBR),2,3,1647,Unfurnished,149000
+Al Nahda,2,2,1391,Unfurnished,73000
+Jumeirah Village Circle (JVC),2,3,1227,Furnished,92000
+International City,2,2,1514,Furnished,65000
+Discovery Gardens,1,2,837,Unfurnished,50000
+Palm Jumeirah,1,2,1071,Unfurnished,143000
+Palm Jumeirah,1,1,1121,Unfurnished,167000
+Palm Jumeirah,1,1,1085,Unfurnished,157000
+Dubai Marina,0,1,627,Unfurnished,70000
+International City,2,3,1552,Unfurnished,74000
+Jumeirah Village Circle (JVC),2,2,1537,Partly Furnished,119000
+International City,1,1,862,Unfurnished,35000
+Discovery Gardens,1,2,984,Partly Furnished,50000
+Jumeirah Beach Residence (JBR),1,1,741,Furnished,112000
+Dubai Silicon Oasis,2,3,1352,Furnished,94000
+International City,2,3,1190,Unfurnished,51000
+Palm Jumeirah,3,3,2055,Unfurnished,259000
+Jumeirah Beach Residence (JBR),1,2,903,Unfurnished,76000
+Dubai Silicon Oasis,2,2,1106,Unfurnished,74000
+Discovery Gardens,3,4,1864,Unfurnished,107000
+Business Bay,0,1,510,Furnished,55000
+Dubai Silicon Oasis,0,1,551,Unfurnished,29000
+Business Bay,3,4,2464,Unfurnished,264000
+Discovery Gardens,0,1,377,Furnished,30000
+Downtown Dubai,3,3,2399,Furnished,451000
+Dubai Silicon Oasis,0,1,390,Partly Furnished,24000
+Business Bay,1,2,1074,Furnished,118000
+Discovery Gardens,2,3,1681,Unfurnished,106000
+Al Nahda,2,3,1519,Furnished,80000
+Palm Jumeirah,1,2,1145,Unfurnished,171000
+Dubai Marina,1,1,728,Unfurnished,73000
+Dubai Silicon Oasis,1,1,764,Partly Furnished,45000
+Jumeirah Lake Towers (JLT),2,3,1479,Furnished,154000
+International City,1,2,764,Unfurnished,32000
+Business Bay,1,1,1195,Unfurnished,92000
+Discovery Gardens,2,3,1198,Partly Furnished,82000
+Jumeirah Village Circle (JVC),4,5,3416,Partly Furnished,203000
+Dubai Sports City,0,1,369,Furnished,27000
+Business Bay,1,2,980,Partly Furnished,125000
+Dubai Silicon Oasis,3,4,2561,Furnished,157000
+Business Bay,1,2,903,Furnished,108000
+Jumeirah Beach Residence (JBR),1,2,707,Furnished,92000
+Jumeirah Village Circle (JVC),0,1,488,Unfurnished,42000
+Dubai Silicon Oasis,1,2,1053,Unfurnished,69000
+Dubai Marina,1,2,1144,Partly Furnished,104000
+Jumeirah Beach Residence (JBR),3,3,1974,Furnished,216000
+Jumeirah Village Circle (JVC),2,3,1252,Furnished,102000
+International City,3,3,1858,Unfurnished,75000
+Jumeirah Lake Towers (JLT),1,2,893,Partly Furnished,96000
+International City,0,1,434,Unfurnished,16000
+Business Bay,1,2,795,Unfurnished,76000
+Dubai Sports City,0,1,481,Unfurnished,39000
+Business Bay,1,1,1100,Unfurnished,107000
+Downtown Dubai,3,4,1719,Unfurnished,222000
+Discovery Gardens,2,3,1285,Unfurnished,62000
+Jumeirah Village Circle (JVC),1,2,835,Furnished,58000
+Business Bay,1,1,841,Furnished,100000
+Downtown Dubai,4,4,3799,Unfurnished,391000
+International City,1,1,871,Furnished,47000
+Discovery Gardens,0,1,562,Furnished,43000
+Dubai Sports City,2,3,1175,Unfurnished,87000
+Downtown Dubai,2,2,1575,Unfurnished,154000
+International City,0,1,377,Furnished,19000
+Dubai Sports City,2,2,1241,Furnished,82000
+Dubai Silicon Oasis,2,3,1545,Unfurnished,97000
+Business Bay,2,3,1142,Unfurnished,95000
+Jumeirah Beach Residence (JBR),1,2,758,Furnished,126000
+International City,1,1,985,Furnished,52000
+Jumeirah Lake Towers (JLT),0,1,555,Furnished,64000
+Jumeirah Beach Residence (JBR),0,1,583,Furnished,66000
+Discovery Gardens,1,1,856,Furnished,67000
+Jumeirah Beach Residence (JBR),0,1,415,Partly Furnished,54000
+International City,1,1,1042,Furnished,47000
+Business Bay,1,1,815,Furnished,97000
+Discovery Gardens,1,2,909,Unfurnished,49000
+Dubai Sports City,2,2,1668,Unfurnished,127000
+Discovery Gardens,1,1,970,Partly Furnished,42000
+Discovery Gardens,1,1,1028,Furnished,58000
+Palm Jumeirah,1,1,1099,Unfurnished,120000
+Discovery Gardens,2,3,1501,Furnished,112000
+Dubai Marina,1,1,999,Furnished,116000
+Discovery Gardens,2,3,1455,Partly Furnished,86000
+Discovery Gardens,2,3,1591,Unfurnished,91000
+Downtown Dubai,2,2,1419,Unfurnished,183000
+Business Bay,2,3,1113,Unfurnished,116000
+Dubai Silicon Oasis,1,1,846,Unfurnished,47000
+Downtown Dubai,2,3,1356,Unfurnished,145000
+International City,1,2,969,Furnished,47000
+Jumeirah Lake Towers (JLT),1,2,982,Furnished,92000
+Dubai Sports City,0,1,442,Unfurnished,30000
+Palm Jumeirah,2,2,1202,Unfurnished,177000
+Dubai Marina,1,2,1102,Unfurnished,126000
+Business Bay,1,1,1110,Unfurnished,131000
+Jumeirah Lake Towers (JLT),0,1,487,Partly Furnished,46000
+Dubai Sports City,1,1,769,Unfurnished,47000
+Jumeirah Village Circle (JVC),2,3,1434,Unfurnished,75000
+Palm Jumeirah,3,3,2367,Furnished,458000
+Jumeirah Beach Residence (JBR),1,2,800,Furnished,115000
+Palm Jumeirah,2,3,1546,Furnished,275000
+Al Nahda,2,3,1321,Furnished,66000
+Jumeirah Lake Towers (JLT),1,2,1026,Furnished,109000
+Al Nahda,2,3,1333,Furnished,78000
+Al Nahda,2,3,1230,Furnished,75000
+Business Bay,0,1,512,Furnished,72000
+Palm Jumeirah,0,1,637,Furnished,99000
+Business Bay,3,4,2290,Furnished,279000
+Dubai Silicon Oasis,1,1,1167,Furnished,87000
+Business Bay,2,2,1408,Furnished,161000
+Dubai Sports City,1,1,998,Furnished,79000
+Jumeirah Lake Towers (JLT),0,1,375,Furnished,41000
+Dubai Marina,1,1,972,Furnished,105000
+Dubai Silicon Oasis,1,1,1178,Unfurnished,57000
+Dubai Marina,1,2,798,Unfurnished,97000
+Palm Jumeirah,2,2,1602,Unfurnished,191000
+Jumeirah Beach Residence (JBR),1,1,755,Furnished,112000
+Discovery Gardens,3,3,2497,Unfurnished,135000
+Dubai Sports City,1,1,1171,Furnished,98000
+Discovery Gardens,3,3,2567,Unfurnished,105000
+Jumeirah Village Circle (JVC),0,1,396,Furnished,28000
+Al Nahda,1,2,1047,Furnished,67000
+Jumeirah Lake Towers (JLT),3,4,2254,Unfurnished,165000
+Dubai Marina,1,1,855,Unfurnished,101000
+Jumeirah Village Circle (JVC),2,2,1101,Furnished,100000
+Downtown Dubai,1,1,864,Unfurnished,119000
+Business Bay,1,2,703,Furnished,95000
+Al Nahda,3,4,1886,Partly Furnished,75000
+Dubai Marina,2,2,1364,Unfurnished,130000
+Dubai Silicon Oasis,0,1,405,Furnished,23000
+Jumeirah Lake Towers (JLT),1,2,1130,Furnished,92000
+Discovery Gardens,0,1,397,Unfurnished,22000
+Dubai Sports City,2,2,1338,Furnished,81000
+Discovery Gardens,3,3,2082,Furnished,169000
+Business Bay,3,4,2276,Unfurnished,265000
+International City,0,1,606,Unfurnished,28000
+Jumeirah Village Circle (JVC),1,1,1133,Furnished,80000
+Discovery Gardens,1,1,748,Unfurnished,49000
+Jumeirah Lake Towers (JLT),1,2,1164,Unfurnished,115000
+Dubai Marina,1,1,847,Unfurnished,97000
+Discovery Gardens,2,2,1187,Furnished,70000
+Jumeirah Beach Residence (JBR),1,1,970,Unfurnished,90000
+Dubai Silicon Oasis,2,2,1111,Partly Furnished,70000
+Downtown Dubai,3,3,2528,Unfurnished,247000
+International City,1,1,1172,Partly Furnished,61000
+Al Nahda,2,2,1116,Partly Furnished,54000
+Jumeirah Lake Towers (JLT),1,1,1067,Furnished,93000
+International City,1,2,1168,Unfurnished,58000
+Jumeirah Beach Residence (JBR),3,4,2074,Furnished,313000
+Discovery Gardens,1,1,1021,Unfurnished,51000
+Dubai Marina,2,2,1563,Furnished,225000
+Discovery Gardens,0,1,519,Unfurnished,23000
+Dubai Silicon Oasis,1,1,974,Furnished,78000
+Dubai Sports City,2,2,1698,Partly Furnished,119000
+Business Bay,3,3,2116,Unfurnished,206000
+Discovery Gardens,1,2,746,Partly Furnished,50000
+Jumeirah Village Circle (JVC),0,1,483,Furnished,38000
+Dubai Marina,1,2,1073,Partly Furnished,128000
+Palm Jumeirah,1,2,882,Unfurnished,98000
+Downtown Dubai,1,1,720,Unfurnished,100000
+Downtown Dubai,1,1,999,Unfurnished,124000
+Business Bay,1,2,1136,Unfurnished,114000
+Dubai Silicon Oasis,2,3,1283,Furnished,80000
+Dubai Marina,1,1,1191,Furnished,169000
+Dubai Marina,0,1,449,Unfurnished,46000
+Jumeirah Beach Residence (JBR),0,1,568,Furnished,95000
+Al Nahda,2,3,1376,Furnished,79000
+Palm Jumeirah,1,2,787,Unfurnished,85000
+Jumeirah Village Circle (JVC),4,5,3584,Unfurnished,310000
+Dubai Silicon Oasis,2,2,1241,Furnished,102000
+Jumeirah Lake Towers (JLT),2,2,1522,Unfurnished,128000
+Discovery Gardens,3,3,1811,Unfurnished,98000
+Dubai Sports City,0,1,426,Unfurnished,24000
+Dubai Sports City,1,1,808,Unfurnished,54000
+Al Nahda,4,4,3072,Furnished,155000
+Jumeirah Village Circle (JVC),1,2,1143,Furnished,73000
+International City,3,4,2336,Furnished,131000
+Dubai Sports City,0,1,546,Furnished,40000
+Dubai Sports City,1,2,1173,Partly Furnished,68000
+Palm Jumeirah,1,2,1082,Furnished,176000
+Jumeirah Village Circle (JVC),1,1,933,Furnished,76000
+Discovery Gardens,2,3,1571,Furnished,120000
+Dubai Marina,1,1,840,Unfurnished,78000
+Dubai Silicon Oasis,2,3,1302,Unfurnished,71000
+International City,1,2,997,Furnished,51000
+Jumeirah Village Circle (JVC),2,3,1589,Furnished,158000
+Business Bay,1,2,1049,Furnished,109000
+Downtown Dubai,1,2,963,Partly Furnished,119000
+Dubai Sports City,1,2,1041,Partly Furnished,75000
+Jumeirah Lake Towers (JLT),2,2,1130,Partly Furnished,129000
+Jumeirah Beach Residence (JBR),0,1,515,Furnished,66000
+Dubai Silicon Oasis,2,2,1109,Unfurnished,61000
+Dubai Silicon Oasis,3,3,2547,Furnished,204000
+Jumeirah Beach Residence (JBR),2,2,1556,Furnished,213000
+Jumeirah Lake Towers (JLT),1,1,822,Furnished,90000
+Dubai Marina,0,1,429,Furnished,52000
+Discovery Gardens,1,1,724,Furnished,41000
+Jumeirah Lake Towers (JLT),2,2,1644,Furnished,206000
+Al Nahda,2,2,1137,Furnished,69000
+Discovery Gardens,3,4,2249,Unfurnished,99000
+Jumeirah Lake Towers (JLT),0,1,578,Furnished,62000
+Downtown Dubai,2,2,1132,Partly Furnished,171000
+Jumeirah Village Circle (JVC),1,2,728,Furnished,62000
+Business Bay,1,1,896,Furnished,86000
+Jumeirah Beach Residence (JBR),2,2,1665,Furnished,253000
+Dubai Marina,1,1,1016,Furnished,130000
+Dubai Silicon Oasis,1,2,957,Furnished,63000
+Dubai Marina,2,3,1158,Furnished,123000
+Discovery Gardens,2,2,1353,Unfurnished,79000
+Jumeirah Beach Residence (JBR),1,1,961,Unfurnished,119000
+Discovery Gardens,3,3,2032,Furnished,147000
+Discovery Gardens,1,2,1119,Partly Furnished,78000
+International City,0,1,480,Unfurnished,21000
+Downtown Dubai,2,3,1458,Unfurnished,155000
+Downtown Dubai,2,2,1429,Furnished,198000
+Jumeirah Lake Towers (JLT),2,2,1464,Furnished,135000
+Jumeirah Beach Residence (JBR),4,4,4113,Furnished,496000
+Palm Jumeirah,0,1,524,Unfurnished,63000
+International City,0,1,426,Unfurnished,16000
+Jumeirah Beach Residence (JBR),0,1,514,Unfurnished,58000
+Dubai Marina,2,2,1405,Unfurnished,118000
+Al Nahda,2,3,1651,Unfurnished,81000
+Jumeirah Beach Residence (JBR),1,2,963,Unfurnished,125000
+International City,1,1,1025,Partly Furnished,49000
+Jumeirah Beach Residence (JBR),2,3,1584,Unfurnished,220000
+Jumeirah Beach Residence (JBR),1,2,980,Unfurnished,96000
+Jumeirah Lake Towers (JLT),0,1,425,Furnished,37000
+Palm Jumeirah,1,1,873,Unfurnished,146000
+International City,1,1,875,Unfurnished,36000
+Downtown Dubai,2,2,1533,Unfurnished,161000
+Business Bay,2,3,1537,Furnished,163000
+Palm Jumeirah,1,1,901,Unfurnished,147000
+Palm Jumeirah,1,2,897,Unfurnished,126000
+Al Nahda,3,4,2362,Unfurnished,122000
+Business Bay,2,2,1480,Unfurnished,144000
+Palm Jumeirah,2,2,1169,Furnished,198000
+Dubai Marina,1,1,723,Unfurnished,78000
+Discovery Gardens,1,1,1047,Unfurnished,59000
+Downtown Dubai,1,1,1196,Furnished,177000
+Palm Jumeirah,1,1,1079,Furnished,177000
+Downtown Dubai,2,3,1682,Furnished,265000
+Jumeirah Lake Towers (JLT),3,3,2511,Partly Furnished,180000
+Jumeirah Beach Residence (JBR),1,2,865,Partly Furnished,107000
+International City,3,4,2100,Unfurnished,79000
+Jumeirah Lake Towers (JLT),2,2,1355,Furnished,129000
+Downtown Dubai,0,1,647,Furnished,104000
+Palm Jumeirah,1,2,933,Unfurnished,104000
+Business Bay,1,2,922,Unfurnished,74000
+Downtown Dubai,1,2,1063,Unfurnished,116000
+Palm Jumeirah,0,1,613,Furnished,110000
+Dubai Sports City,2,2,1209,Unfurnished,71000
+Jumeirah Village Circle (JVC),1,2,865,Furnished,61000
+Al Nahda,2,2,1601,Furnished,101000
+Dubai Marina,1,2,1067,Furnished,117000
+Dubai Sports City,2,2,1383,Furnished,129000
+Dubai Marina,1,1,1189,Unfurnished,146000
+Dubai Silicon Oasis,1,1,942,Unfurnished,55000
+Dubai Silicon Oasis,0,1,584,Furnished,47000
+Jumeirah Lake Towers (JLT),2,2,1195,Furnished,120000
+Al Nahda,2,3,1580,Unfurnished,83000
+International City,1,1,735,Furnished,33000
+Dubai Marina,0,1,491,Furnished,66000
+Dubai Silicon Oasis,0,1,510,Unfurnished,31000
+Al Nahda,1,2,979,Unfurnished,54000
+Jumeirah Beach Residence (JBR),1,1,1139,Unfurnished,141000
+International City,3,3,2469,Furnished,107000
+Downtown Dubai,0,1,480,Furnished,90000
+Dubai Sports City,4,4,3261,Furnished,256000
+Discovery Gardens,4,5,4128,Unfurnished,182000
+Al Nahda,2,2,1392,Furnished,83000
+Business Bay,3,3,2474,Unfurnished,296000
+Dubai Silicon Oasis,2,2,1537,Unfurnished,85000
+Discovery Gardens,1,2,1019,Furnished,74000
+Downtown Dubai,2,2,1194,Furnished,152000
+Downtown Dubai,1,1,893,Unfurnished,94000
+Dubai Silicon Oasis,3,4,2364,Furnished,175000
+Jumeirah Village Circle (JVC),3,3,1978,Unfurnished,140000
+Jumeirah Village Circle (JVC),2,2,1604,Furnished,151000
+Discovery Gardens,1,2,899,Unfurnished,49000
+Dubai Marina,3,4,2490,Furnished,360000
+Dubai Silicon Oasis,1,2,861,Furnished,58000
+Dubai Sports City,2,3,1565,Unfurnished,120000
+Dubai Silicon Oasis,3,3,1781,Unfurnished,121000
+Dubai Marina,0,1,541,Furnished,75000
+Dubai Marina,2,2,1134,Unfurnished,128000
+Jumeirah Lake Towers (JLT),0,1,406,Furnished,48000
+International City,1,2,835,Unfurnished,35000
+Palm Jumeirah,2,3,1615,Furnished,259000
+Dubai Marina,0,1,612,Unfurnished,64000
+Palm Jumeirah,1,2,1116,Furnished,216000
+Business Bay,1,2,1079,Partly Furnished,109000
+International City,1,1,1143,Unfurnished,41000
+Discovery Gardens,2,2,1194,Furnished,66000
+International City,1,2,953,Partly Furnished,36000
+Al Nahda,3,4,2336,Furnished,114000
+Dubai Sports City,2,3,1497,Unfurnished,122000
+Jumeirah Lake Towers (JLT),4,4,3517,Unfurnished,316000
+Jumeirah Village Circle (JVC),0,1,391,Furnished,30000
+International City,2,3,1502,Unfurnished,60000
+Al Nahda,2,2,1138,Furnished,57000
+Business Bay,0,1,567,Furnished,56000
+Dubai Silicon Oasis,2,3,1616,Unfurnished,100000
+Al Nahda,1,1,964,Furnished,61000
+International City,1,1,1006,Unfurnished,44000
+Jumeirah Village Circle (JVC),0,1,536,Unfurnished,33000
+Dubai Marina,2,3,1659,Unfurnished,189000
+Dubai Sports City,3,4,1870,Furnished,153000
+Dubai Marina,1,1,996,Furnished,99000
+Discovery Gardens,2,3,1448,Unfurnished,91000
+Discovery Gardens,1,1,818,Furnished,47000
+Al Nahda,2,2,1571,Unfurnished,57000
+Dubai Sports City,0,1,617,Unfurnished,38000
+Jumeirah Beach Residence (JBR),1,2,986,Furnished,128000
+Jumeirah Village Circle (JVC),1,1,1073,Unfurnished,74000
+Dubai Silicon Oasis,2,2,1579,Unfurnished,99000
+Jumeirah Beach Residence (JBR),1,1,1045,Unfurnished,91000
+Jumeirah Village Circle (JVC),1,2,827,Unfurnished,56000
+Jumeirah Lake Towers (JLT),2,2,1381,Partly Furnished,111000
+Dubai Silicon Oasis,2,3,1608,Unfurnished,87000
+Jumeirah Village Circle (JVC),1,1,724,Unfurnished,42000
+Jumeirah Village Circle (JVC),1,1,1043,Unfurnished,80000
+Dubai Sports City,0,1,637,Unfurnished,43000
+Dubai Marina,0,1,576,Furnished,73000
+Jumeirah Lake Towers (JLT),1,2,1098,Furnished,102000
+Jumeirah Village Circle (JVC),3,4,2591,Furnished,223000
+Jumeirah Lake Towers (JLT),1,2,853,Unfurnished,57000
+Discovery Gardens,1,1,755,Unfurnished,42000
+Business Bay,0,1,560,Unfurnished,56000
+Jumeirah Lake Towers (JLT),2,2,1281,Furnished,122000
+Palm Jumeirah,3,4,2387,Unfurnished,243000
+Discovery Gardens,2,3,1364,Unfurnished,83000
+Dubai Silicon Oasis,2,2,1672,Unfurnished,83000
+Dubai Marina,4,5,3175,Unfurnished,308000
+Dubai Marina,2,2,1665,Unfurnished,209000
+Dubai Marina,1,2,1041,Unfurnished,84000
+Dubai Marina,1,1,907,Unfurnished,95000
+Jumeirah Village Circle (JVC),1,1,1013,Furnished,79000
+Dubai Marina,3,3,2269,Furnished,275000
+Dubai Sports City,2,3,1620,Unfurnished,91000
+Dubai Sports City,0,1,389,Unfurnished,28000
+Jumeirah Lake Towers (JLT),2,2,1269,Furnished,140000
+Palm Jumeirah,1,2,1040,Furnished,200000
+Al Nahda,1,1,917,Furnished,65000
+Downtown Dubai,0,1,457,Unfurnished,69000
+International City,1,1,967,Furnished,51000
+Al Nahda,1,1,1044,Furnished,70000
+Al Nahda,0,1,562,Furnished,40000
+Jumeirah Lake Towers (JLT),3,3,2425,Unfurnished,206000
+Discovery Gardens,2,3,1198,Unfurnished,55000
+Dubai Marina,1,1,771,Unfurnished,77000
+Jumeirah Village Circle (JVC),0,1,526,Unfurnished,39000
+Jumeirah Lake Towers (JLT),1,1,1063,Unfurnished,84000
+Discovery Gardens,4,5,2870,Furnished,207000
+Jumeirah Village Circle (JVC),1,2,1003,Furnished,92000
+Dubai Sports City,2,3,1113,Unfurnished,56000
+Downtown Dubai,1,1,1191,Unfurnished,153000
+Business Bay,1,1,918,Unfurnished,77000
+International City,2,3,1230,Unfurnished,52000
+Business Bay,3,4,2334,Furnished,268000
+Jumeirah Lake Towers (JLT),0,1,557,Unfurnished,41000
+Dubai Marina,0,1,381,Furnished,44000
+International City,0,1,561,Unfurnished,20000
+Al Nahda,2,2,1333,Unfurnished,71000
+Jumeirah Beach Residence (JBR),3,4,2148,Furnished,298000
+Palm Jumeirah,2,2,1240,Furnished,184000
+Discovery Gardens,1,1,843,Unfurnished,57000
+Dubai Silicon Oasis,1,1,969,Furnished,65000
+Jumeirah Beach Residence (JBR),1,2,814,Unfurnished,78000
+Dubai Marina,1,1,891,Furnished,116000
+Jumeirah Lake Towers (JLT),2,2,1402,Unfurnished,106000
+Al Nahda,1,2,712,Unfurnished,31000
+Jumeirah Lake Towers (JLT),0,1,425,Unfurnished,42000
+Dubai Marina,3,4,1854,Unfurnished,179000
+Business Bay,0,1,608,Unfurnished,52000
+International City,4,4,4158,Furnished,175000
+Jumeirah Beach Residence (JBR),3,3,2036,Unfurnished,253000
+Jumeirah Village Circle (JVC),2,2,1335,Unfurnished,116000
+Al Nahda,1,1,1160,Unfurnished,51000
+International City,1,2,1189,Unfurnished,51000
+International City,2,3,1124,Furnished,47000
+Discovery Gardens,2,2,1653,Unfurnished,80000
+Discovery Gardens,1,2,1052,Partly Furnished,69000
+Al Nahda,2,2,1649,Furnished,120000
+Downtown Dubai,0,1,589,Furnished,76000
+International City,1,2,997,Furnished,43000
+Discovery Gardens,2,2,1408,Unfurnished,91000
+Dubai Sports City,2,2,1359,Furnished,101000
+Business Bay,1,2,1177,Unfurnished,112000
+Downtown Dubai,0,1,648,Unfurnished,79000
+Palm Jumeirah,1,2,782,Unfurnished,80000
+Business Bay,2,2,1506,Furnished,207000
+Dubai Sports City,1,2,958,Furnished,82000
+Business Bay,0,1,514,Unfurnished,47000
+Jumeirah Lake Towers (JLT),0,1,530,Furnished,58000
+Jumeirah Lake Towers (JLT),1,2,1105,Furnished,105000
+Downtown Dubai,3,3,2298,Furnished,380000
+Palm Jumeirah,1,2,1185,Furnished,152000
+Palm Jumeirah,1,1,759,Unfurnished,110000
+International City,0,1,383,Furnished,18000
+Discovery Gardens,1,2,810,Unfurnished,50000
+Jumeirah Village Circle (JVC),4,4,3118,Partly Furnished,273000
+Dubai Marina,3,4,2462,Unfurnished,252000
+Palm Jumeirah,2,2,1197,Unfurnished,193000
+Dubai Sports City,1,1,1094,Furnished,103000
+Discovery Gardens,0,1,630,Unfurnished,32000
+Downtown Dubai,1,1,893,Unfurnished,94000
+Dubai Marina,1,2,1161,Partly Furnished,136000
+Dubai Sports City,1,2,1166,Furnished,79000
+Al Nahda,1,1,754,Unfurnished,33000
+Jumeirah Beach Residence (JBR),1,1,786,Unfurnished,93000
+Jumeirah Village Circle (JVC),2,3,1405,Partly Furnished,89000
+Jumeirah Village Circle (JVC),1,2,1052,Unfurnished,72000
+Dubai Silicon Oasis,0,1,423,Unfurnished,22000
+Jumeirah Lake Towers (JLT),3,4,2438,Unfurnished,194000
+Palm Jumeirah,2,2,1313,Furnished,276000
+Jumeirah Lake Towers (JLT),2,2,1523,Furnished,164000
+Business Bay,2,2,1644,Unfurnished,156000
+Dubai Sports City,2,3,1385,Furnished,118000
+Jumeirah Lake Towers (JLT),1,2,887,Unfurnished,67000
+International City,1,2,1027,Unfurnished,42000
+International City,0,1,362,Partly Furnished,17000
+Dubai Marina,1,2,760,Partly Furnished,82000
+Downtown Dubai,0,1,416,Furnished,71000
+Palm Jumeirah,1,1,1033,Furnished,155000
+Palm Jumeirah,1,1,1108,Unfurnished,151000
+International City,2,2,1334,Furnished,71000
+Downtown Dubai,1,1,746,Unfurnished,82000
+Discovery Gardens,1,1,705,Unfurnished,42000
+Dubai Marina,2,3,1546,Unfurnished,178000
+Business Bay,2,2,1491,Unfurnished,115000
+Dubai Silicon Oasis,0,1,535,Furnished,31000
+Discovery Gardens,2,3,1119,Unfurnished,50000
+Jumeirah Village Circle (JVC),0,1,442,Furnished,36000
+Dubai Silicon Oasis,0,1,459,Furnished,30000
+International City,1,2,1079,Furnished,53000
+Dubai Silicon Oasis,0,1,521,Furnished,43000
+Jumeirah Village Circle (JVC),1,2,939,Unfurnished,58000
+Business Bay,0,1,453,Furnished,46000
+Jumeirah Beach Residence (JBR),1,1,897,Furnished,119000
+Al Nahda,2,3,1417,Furnished,89000
+Dubai Marina,1,2,1113,Furnished,132000
+Jumeirah Lake Towers (JLT),2,2,1636,Unfurnished,108000
+Jumeirah Village Circle (JVC),1,2,820,Furnished,57000
+Dubai Marina,1,1,964,Furnished,136000
+Business Bay,1,1,919,Unfurnished,83000
+Discovery Gardens,2,3,1607,Unfurnished,89000
+Discovery Gardens,2,2,1256,Unfurnished,71000
+International City,2,2,1586,Furnished,64000
+Dubai Silicon Oasis,1,1,1178,Unfurnished,72000
+Al Nahda,0,1,365,Unfurnished,13000
+Discovery Gardens,1,2,1011,Unfurnished,48000
+Business Bay,2,3,1330,Partly Furnished,130000
+Downtown Dubai,3,3,2010,Unfurnished,201000
+Jumeirah Beach Residence (JBR),0,1,397,Furnished,60000
+Jumeirah Village Circle (JVC),2,3,1661,Furnished,167000
+International City,1,2,953,Unfurnished,42000
+Downtown Dubai,1,1,1127,Partly Furnished,124000
+Downtown Dubai,2,3,1186,Partly Furnished,173000
+Jumeirah Beach Residence (JBR),0,1,490,Unfurnished,49000
+Business Bay,2,3,1279,Unfurnished,141000
+Jumeirah Beach Residence (JBR),1,1,927,Unfurnished,130000
+Palm Jumeirah,1,1,878,Furnished,165000
+Business Bay,2,3,1442,Unfurnished,140000
+Business Bay,1,2,785,Furnished,107000
+Jumeirah Lake Towers (JLT),1,1,1078,Unfurnished,72000
+Dubai Marina,2,2,1236,Furnished,152000
+Downtown Dubai,0,1,570,Furnished,78000
+Dubai Silicon Oasis,1,2,799,Furnished,63000
+Dubai Sports City,1,1,916,Furnished,73000
+Jumeirah Village Circle (JVC),1,1,777,Furnished,71000
+Palm Jumeirah,1,1,878,Furnished,155000
+Palm Jumeirah,0,1,458,Furnished,71000
+Jumeirah Village Circle (JVC),3,3,2159,Furnished,182000
+Al Nahda,1,1,719,Unfurnished,31000
+Dubai Sports City,3,3,2268,Furnished,193000
+Jumeirah Beach Residence (JBR),2,3,1449,Unfurnished,165000
+Al Nahda,3,3,1767,Unfurnished,85000
+Al Nahda,2,3,1161,Furnished,67000
+Discovery Gardens,2,3,1630,Furnished,110000
+Jumeirah Lake Towers (JLT),0,1,430,Furnished,51000
+Dubai Marina,0,1,498,Furnished,58000
+Jumeirah Village Circle (JVC),0,1,375,Partly Furnished,30000
+Dubai Sports City,3,4,2394,Unfurnished,191000
+Downtown Dubai,1,1,1101,Furnished,172000
+Jumeirah Village Circle (JVC),2,2,1152,Furnished,112000
+Downtown Dubai,1,2,893,Unfurnished,122000
+Dubai Silicon Oasis,3,3,2174,Partly Furnished,125000
+Dubai Marina,2,3,1531,Partly Furnished,157000
+Jumeirah Lake Towers (JLT),2,3,1469,Furnished,155000
+International City,2,3,1104,Furnished,45000
+Jumeirah Village Circle (JVC),0,1,626,Unfurnished,46000
+International City,3,4,1756,Unfurnished,83000
+Jumeirah Village Circle (JVC),2,3,1450,Unfurnished,99000
+Dubai Sports City,1,1,1064,Furnished,79000
+Discovery Gardens,3,3,1967,Partly Furnished,108000
+Jumeirah Village Circle (JVC),1,2,999,Furnished,106000
+Business Bay,3,4,2177,Furnished,301000
+Dubai Marina,4,5,3891,Furnished,603000
+Jumeirah Village Circle (JVC),1,1,887,Partly Furnished,63000
+Downtown Dubai,2,3,1341,Furnished,207000
+Jumeirah Lake Towers (JLT),1,2,768,Unfurnished,56000
+Palm Jumeirah,1,2,1060,Unfurnished,171000
+International City,1,2,741,Furnished,39000
+Dubai Silicon Oasis,2,2,1360,Unfurnished,74000
+Dubai Sports City,0,1,624,Unfurnished,35000
+Jumeirah Lake Towers (JLT),1,1,806,Unfurnished,54000
+Dubai Marina,1,2,727,Furnished,102000
+Jumeirah Village Circle (JVC),1,1,1006,Furnished,62000
+Dubai Marina,1,1,817,Unfurnished,91000
+Jumeirah Beach Residence (JBR),4,4,4104,Unfurnished,588000
+Jumeirah Village Circle (JVC),1,1,879,Furnished,69000
+International City,2,3,1535,Unfurnished,62000
+Jumeirah Village Circle (JVC),3,4,2097,Furnished,174000
+Al Nahda,1,1,1081,Furnished,59000
+Dubai Marina,2,2,1496,Unfurnished,169000
+Jumeirah Village Circle (JVC),1,1,1038,Unfurnished,80000
+Business Bay,1,2,732,Unfurnished,80000
+Dubai Sports City,1,1,769,Unfurnished,41000
+Jumeirah Lake Towers (JLT),0,1,433,Furnished,46000
+Jumeirah Beach Residence (JBR),1,2,975,Unfurnished,114000
+Jumeirah Lake Towers (JLT),1,1,1041,Furnished,116000
+Palm Jumeirah,3,4,2336,Unfurnished,267000
+Dubai Marina,0,1,473,Furnished,67000
+Al Nahda,2,3,1311,Unfurnished,73000
+Discovery Gardens,1,1,714,Unfurnished,33000
+Dubai Marina,2,2,1622,Partly Furnished,214000
+Al Nahda,1,2,768,Furnished,38000
+Al Nahda,2,3,1659,Partly Furnished,66000
+Jumeirah Beach Residence (JBR),1,2,1056,Furnished,133000
+Jumeirah Lake Towers (JLT),2,3,1103,Furnished,103000
+Jumeirah Lake Towers (JLT),1,2,954,Partly Furnished,97000
+Dubai Sports City,3,3,2025,Furnished,175000
+Discovery Gardens,1,1,848,Furnished,59000
+Palm Jumeirah,0,1,631,Unfurnished,96000
+Jumeirah Beach Residence (JBR),1,1,993,Furnished,154000
+Dubai Marina,2,2,1436,Furnished,169000
+Palm Jumeirah,2,3,1104,Unfurnished,142000
+Business Bay,2,2,1405,Unfurnished,160000
+Jumeirah Beach Residence (JBR),2,2,1384,Unfurnished,154000
+Palm Jumeirah,1,2,1085,Furnished,178000
+International City,3,3,2203,Unfurnished,84000
+Palm Jumeirah,3,3,1880,Unfurnished,247000
+Discovery Gardens,1,1,956,Unfurnished,54000
+Dubai Marina,2,3,1124,Unfurnished,99000
+Palm Jumeirah,1,1,765,Furnished,146000
+Discovery Gardens,2,3,1141,Unfurnished,63000
+Dubai Silicon Oasis,1,1,1134,Unfurnished,75000
+Dubai Silicon Oasis,0,1,504,Furnished,42000
+International City,0,1,356,Furnished,17000
+International City,1,1,953,Furnished,46000
+Dubai Silicon Oasis,1,1,825,Unfurnished,49000
+Discovery Gardens,0,1,608,Unfurnished,31000
+International City,1,2,1049,Unfurnished,41000
+Discovery Gardens,1,1,1009,Furnished,67000
+Discovery Gardens,1,1,968,Partly Furnished,51000
+International City,1,1,1011,Partly Furnished,46000
+Jumeirah Lake Towers (JLT),3,3,2015,Unfurnished,187000
+Discovery Gardens,2,3,1543,Unfurnished,84000
+Jumeirah Lake Towers (JLT),1,1,1041,Furnished,86000
+Palm Jumeirah,2,3,1105,Unfurnished,130000
+Dubai Silicon Oasis,1,1,743,Furnished,58000
+Dubai Marina,1,2,963,Furnished,102000
+Dubai Silicon Oasis,3,4,1965,Unfurnished,140000
+Dubai Silicon Oasis,1,2,1173,Unfurnished,77000
+Discovery Gardens,2,2,1129,Furnished,86000
+Business Bay,1,2,1184,Furnished,157000
+Business Bay,3,4,2088,Furnished,280000
+International City,0,1,524,Furnished,21000
+Downtown Dubai,2,3,1442,Unfurnished,137000
+Jumeirah Lake Towers (JLT),1,2,975,Unfurnished,71000
+Al Nahda,2,2,1532,Unfurnished,79000
+Dubai Marina,1,1,950,Furnished,138000
+Business Bay,1,2,1098,Unfurnished,107000
+Dubai Silicon Oasis,1,1,870,Partly Furnished,50000
+Dubai Silicon Oasis,2,2,1695,Unfurnished,111000
+Downtown Dubai,1,2,968,Furnished,177000
+Downtown Dubai,0,1,426,Furnished,59000
+Jumeirah Lake Towers (JLT),3,3,1757,Furnished,183000
+Business Bay,1,1,774,Furnished,95000
+Dubai Marina,2,2,1263,Unfurnished,124000
+Discovery Gardens,1,1,1088,Unfurnished,46000
+Dubai Marina,4,4,3588,Furnished,529000
+International City,2,2,1525,Unfurnished,67000
+International City,3,4,2219,Partly Furnished,93000
+Al Nahda,2,3,1509,Furnished,98000
+Jumeirah Village Circle (JVC),1,1,754,Unfurnished,41000
+Dubai Silicon Oasis,1,2,1130,Furnished,66000
+International City,1,2,1022,Unfurnished,39000
+Al Nahda,2,3,1126,Unfurnished,55000
+Dubai Sports City,1,2,961,Furnished,70000
+Downtown Dubai,1,2,848,Unfurnished,89000
+Dubai Silicon Oasis,0,1,644,Furnished,43000
+International City,1,1,1005,Unfurnished,35000
+Discovery Gardens,3,3,2043,Unfurnished,115000
+Jumeirah Beach Residence (JBR),3,3,1761,Unfurnished,186000
+Jumeirah Lake Towers (JLT),1,2,1130,Unfurnished,106000
+International City,2,2,1436,Unfurnished,53000
+Dubai Silicon Oasis,2,2,1165,Furnished,75000
+Al Nahda,3,3,2125,Unfurnished,83000
+Palm Jumeirah,1,2,1149,Unfurnished,153000
+Downtown Dubai,2,2,1128,Partly Furnished,125000
+Dubai Silicon Oasis,1,2,875,Unfurnished,54000
+Dubai Marina,3,4,1994,Furnished,298000
+Jumeirah Lake Towers (JLT),1,1,1086,Unfurnished,87000
+Dubai Sports City,0,1,440,Partly Furnished,30000
+Dubai Marina,1,1,1032,Furnished,129000
+Al Nahda,0,1,457,Unfurnished,22000
+Discovery Gardens,1,1,831,Unfurnished,50000
+Palm Jumeirah,1,2,923,Unfurnished,127000
+Downtown Dubai,4,5,3718,Unfurnished,501000
+Jumeirah Beach Residence (JBR),2,3,1551,Furnished,235000
+Dubai Sports City,2,2,1151,Furnished,107000
+Dubai Silicon Oasis,4,5,3508,Furnished,244000
+Dubai Silicon Oasis,1,1,929,Unfurnished,48000
+Al Nahda,0,1,385,Unfurnished,21000
+Al Nahda,0,1,399,Furnished,21000
+International City,1,2,1012,Partly Furnished,39000
+Palm Jumeirah,1,1,935,Unfurnished,141000
+Jumeirah Lake Towers (JLT),2,2,1584,Furnished,165000
+Jumeirah Lake Towers (JLT),1,2,871,Partly Furnished,92000
+Business Bay,1,2,1082,Unfurnished,120000
+Jumeirah Village Circle (JVC),0,1,576,Furnished,55000
+Jumeirah Village Circle (JVC),1,2,956,Unfurnished,74000
+Jumeirah Lake Towers (JLT),0,1,489,Furnished,54000
+Discovery Gardens,2,3,1233,Furnished,73000
+International City,2,3,1246,Partly Furnished,54000
+Downtown Dubai,0,1,558,Furnished,67000
+Discovery Gardens,0,1,399,Furnished,21000
+Discovery Gardens,1,1,836,Furnished,51000
+Jumeirah Lake Towers (JLT),1,2,865,Furnished,101000
+Dubai Marina,0,1,550,Unfurnished,51000
+Jumeirah Lake Towers (JLT),2,3,1333,Partly Furnished,93000
+Dubai Marina,2,3,1683,Unfurnished,174000
+Al Nahda,2,2,1678,Partly Furnished,84000
+Discovery Gardens,2,2,1345,Unfurnished,75000
+Jumeirah Village Circle (JVC),1,2,715,Unfurnished,37000
+Business Bay,2,2,1377,Unfurnished,117000
+Business Bay,1,2,1019,Furnished,156000
+Dubai Sports City,1,1,762,Unfurnished,50000
+Discovery Gardens,1,1,884,Partly Furnished,59000
+International City,0,1,420,Furnished,27000
+Palm Jumeirah,1,1,1064,Unfurnished,134000
+Jumeirah Lake Towers (JLT),2,3,1343,Furnished,155000
+Dubai Marina,1,1,1032,Unfurnished,113000
+International City,2,3,1387,Unfurnished,52000
+Discovery Gardens,1,1,988,Furnished,71000
+Palm Jumeirah,2,3,1424,Unfurnished,203000
+Jumeirah Lake Towers (JLT),1,1,762,Partly Furnished,58000
+Business Bay,4,4,2783,Furnished,415000
+Discovery Gardens,2,3,1639,Furnished,116000
+Dubai Sports City,1,2,944,Furnished,77000
+Discovery Gardens,3,4,2355,Partly Furnished,117000
+Jumeirah Village Circle (JVC),0,1,507,Unfurnished,37000
+Palm Jumeirah,1,1,714,Unfurnished,94000
+International City,2,2,1540,Partly Furnished,58000
+Dubai Sports City,4,4,4083,Furnished,338000
+Dubai Marina,1,1,1143,Unfurnished,101000
+Business Bay,2,2,1339,Furnished,175000
+Al Nahda,0,1,465,Unfurnished,19000
+Jumeirah Village Circle (JVC),0,1,383,Partly Furnished,28000
+Discovery Gardens,2,2,1475,Unfurnished,89000
+Jumeirah Lake Towers (JLT),2,3,1592,Furnished,195000
+Palm Jumeirah,0,1,377,Partly Furnished,56000
+Discovery Gardens,2,2,1174,Partly Furnished,83000
+Dubai Sports City,2,2,1453,Unfurnished,114000
+Dubai Sports City,2,3,1522,Unfurnished,121000
+Discovery Gardens,2,3,1593,Furnished,89000
+Al Nahda,2,2,1141,Unfurnished,69000
+Dubai Marina,0,1,538,Unfurnished,52000
+Discovery Gardens,1,2,1110,Unfurnished,61000
+Discovery Gardens,2,3,1679,Furnished,133000
+Jumeirah Village Circle (JVC),3,3,1966,Furnished,162000
+Al Nahda,1,2,793,Furnished,58000
+Jumeirah Lake Towers (JLT),2,2,1389,Unfurnished,118000
+Downtown Dubai,2,2,1505,Unfurnished,198000
+Jumeirah Lake Towers (JLT),2,3,1319,Unfurnished,106000
+Business Bay,3,4,1888,Furnished,178000
+Palm Jumeirah,2,2,1401,Unfurnished,159000
+Jumeirah Beach Residence (JBR),4,5,3600,Unfurnished,462000
+Jumeirah Lake Towers (JLT),1,2,1077,Unfurnished,99000
+Dubai Silicon Oasis,1,1,845,Unfurnished,50000
+Jumeirah Beach Residence (JBR),0,1,490,Unfurnished,67000
+Jumeirah Beach Residence (JBR),3,3,1846,Furnished,209000
+Palm Jumeirah,1,1,1138,Partly Furnished,181000
+Palm Jumeirah,1,2,933,Unfurnished,123000
+Dubai Marina,2,3,1180,Unfurnished,129000
+Business Bay,1,2,987,Unfurnished,117000
+Dubai Marina,1,2,1146,Furnished,126000
+Al Nahda,4,5,3851,Furnished,228000
+Al Nahda,1,2,722,Partly Furnished,34000
+Dubai Sports City,1,1,921,Furnished,67000
+Al Nahda,1,2,955,Furnished,51000
+Downtown Dubai,0,1,644,Furnished,83000
+Discovery Gardens,0,1,543,Furnished,38000
+Jumeirah Lake Towers (JLT),4,5,3707,Furnished,342000
+International City,0,1,433,Furnished,18000
+Palm Jumeirah,1,2,882,Furnished,129000
+International City,3,4,2238,Furnished,131000
+Jumeirah Village Circle (JVC),1,1,993,Unfurnished,67000
